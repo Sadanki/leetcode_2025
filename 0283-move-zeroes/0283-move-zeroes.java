@@ -1,17 +1,17 @@
 class Solution {
     public void moveZeroes(int[] nums) {
-        int left = 0; // Pointer for the position to place non-zero elements
+        int index = 0; // Points to where the next non-zero should go
 
-        for (int right = 0; right < nums.length; right++) {
-            if (nums[right] != 0) {
-                // XOR Swap nums[left] and nums[right] without a temporary variable
-                if (left != right) { // Prevent self XOR when left == right
-                    nums[left] ^= nums[right];
-                    nums[right] ^= nums[left];
-                    nums[left] ^= nums[right];
-                }
-                left++; // Move the left pointer
+        // First pass: Move non-zero elements to the front
+        for (int num : nums) {
+            if (num != 0) {
+                nums[index++] = num;
             }
+        }
+
+        // Second pass: Fill the rest with 0s
+        while (index < nums.length) {
+            nums[index++] = 0;
         }
     }
 }
