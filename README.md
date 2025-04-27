@@ -50,12 +50,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Sadanki/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Sadanki/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Sadanki/leetcode/tree/master/0283-move-zeroes) |
+| [0874-backspace-string-compare](https://github.com/Sadanki/leetcode/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/Sadanki/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sadanki/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sadanki/leetcode/tree/master/0020-valid-parentheses) |
+| [0874-backspace-string-compare](https://github.com/Sadanki/leetcode/tree/master/0874-backspace-string-compare) |
 | [1044-find-common-characters](https://github.com/Sadanki/leetcode/tree/master/1044-find-common-characters) |
 ## Math
 |  |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Sadanki/leetcode/tree/master/0020-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/Sadanki/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Sadanki/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0874-backspace-string-compare](https://github.com/Sadanki/leetcode/tree/master/0874-backspace-string-compare) |
 ## Design
 |  |
 | ------- |
@@ -96,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Sadanki/leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Simulation
+|  |
+| ------- |
+| [0874-backspace-string-compare](https://github.com/Sadanki/leetcode/tree/master/0874-backspace-string-compare) |
 <!---LeetCode Topics End-->
