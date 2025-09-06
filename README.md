@@ -39,6 +39,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/Sadanki/leetcode_2025/tree/master/0049-group-anagrams) |
 ## Hash Table
 |  |
@@ -87,4 +88,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Sadanki/leetcode_2025/tree/master/0032-longest-valid-parentheses) |
+| [0045-jump-game-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0045-jump-game-ii) |
+## Greedy
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
