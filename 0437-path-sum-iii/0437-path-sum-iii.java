@@ -34,3 +34,35 @@ class Solution {
     return count;
 }
 }
+
+
+
+            //Algorithm/Technique Name: Prefix Sum + HashMap
+// class Solution {
+//     public int pathSum(TreeNode root, int targetSum) {
+//         Map<Long, Integer> prefixSumCount = new HashMap<>();
+//         prefixSumCount.put(0L, 1);  // base case
+//         return dfs(root, 0, targetSum, prefixSumCount);
+//     }
+
+//     private int dfs(TreeNode node, long currSum, int targetSum, Map<Long, Integer> prefixSumCount) {
+//         if (node == null) return 0;
+
+//         currSum += node.val;
+
+//         // count paths ending at current node
+//         int paths = prefixSumCount.getOrDefault(currSum - targetSum, 0);
+
+//         // add current sum to map
+//         prefixSumCount.put(currSum, prefixSumCount.getOrDefault(currSum, 0) + 1);
+
+//         // explore children
+//         paths += dfs(node.left, currSum, targetSum, prefixSumCount);
+//         paths += dfs(node.right, currSum, targetSum, prefixSumCount);
+
+//         // backtrack: remove current sum
+//         prefixSumCount.put(currSum, prefixSumCount.get(currSum) - 1);
+
+//         return paths;
+//     }
+// }
