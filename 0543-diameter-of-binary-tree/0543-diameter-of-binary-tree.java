@@ -1,24 +1,24 @@
 class Solution {
-    private int diameter = 0;  // Variable to store the diameter of the tree
-
+    private int maxDiameter = 0;  // global variable to store result
+    
     public int diameterOfBinaryTree(TreeNode root) {
-        calculateHeight(root);  // Start calculating the height of the tree
-        return diameter;  // Return the diameter of the tree
+        depth(root);
+        return maxDiameter;
     }
-
-    private int calculateHeight(TreeNode root) {
-        if (root == null) {
-            return 0;  // Base case: if the node is null, return height 0
+    
+    // helper function to calculate height of a node
+    private int depth(TreeNode node) {
+        if (node == null) {
+            return 0;
         }
-
-        // Recursively calculate the height of the left and right subtrees
-        int leftHeight = calculateHeight(root.left);
-        int rightHeight = calculateHeight(root.right);
-
-        // Update the diameter (max path length between any two nodes)
-        diameter = Math.max(diameter, leftHeight + rightHeight);
-
-        // Return the height of the current node
+        
+        int leftHeight = depth(node.left);
+        int rightHeight = depth(node.right);
+        
+        // update diameter at this node
+        maxDiameter = Math.max(maxDiameter, leftHeight + rightHeight);
+        
+        // return height of current node
         return 1 + Math.max(leftHeight, rightHeight);
     }
 }
