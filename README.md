@@ -60,4 +60,16 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Sadanki/leetcode_2025/tree/master/0155-min-stack) |
+## Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Sadanki/leetcode_2025/tree/master/0543-diameter-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Sadanki/leetcode_2025/tree/master/0543-diameter-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Sadanki/leetcode_2025/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
