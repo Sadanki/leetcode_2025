@@ -47,6 +47,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Sadanki/leetcode_2025/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Sadanki/leetcode_2025/tree/master/0049-group-anagrams) |
 ## Sorting
 |  |
@@ -55,6 +56,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Sadanki/leetcode_2025/tree/master/0032-longest-valid-parentheses) |
 | [0155-min-stack](https://github.com/Sadanki/leetcode_2025/tree/master/0155-min-stack) |
 ## Design
 |  |
@@ -81,4 +83,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Sadanki/leetcode_2025/tree/master/0102-binary-tree-level-order-traversal) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Sadanki/leetcode_2025/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
