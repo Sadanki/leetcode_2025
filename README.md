@@ -39,6 +39,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Sadanki/leetcode_2025/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/Sadanki/leetcode_2025/tree/master/0049-group-anagrams) |
 | [0064-minimum-path-sum](https://github.com/Sadanki/leetcode_2025/tree/master/0064-minimum-path-sum) |
@@ -109,6 +110,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Sadanki/leetcode_2025/tree/master/0035-search-insert-position) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0240-search-a-2d-matrix-ii) |
 ## Divide and Conquer
 |  |
