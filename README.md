@@ -46,6 +46,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0240-search-a-2d-matrix-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Sadanki/leetcode_2025/tree/master/0416-partition-equal-subset-sum) |
+| [0542-01-matrix](https://github.com/Sadanki/leetcode_2025/tree/master/0542-01-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -93,6 +94,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Sadanki/leetcode_2025/tree/master/0102-binary-tree-level-order-traversal) |
+| [0542-01-matrix](https://github.com/Sadanki/leetcode_2025/tree/master/0542-01-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -101,6 +103,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0064-minimum-path-sum](https://github.com/Sadanki/leetcode_2025/tree/master/0064-minimum-path-sum) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Sadanki/leetcode_2025/tree/master/0416-partition-equal-subset-sum) |
+| [0542-01-matrix](https://github.com/Sadanki/leetcode_2025/tree/master/0542-01-matrix) |
 ## Greedy
 |  |
 | ------- |
@@ -111,6 +114,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Sadanki/leetcode_2025/tree/master/0064-minimum-path-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0240-search-a-2d-matrix-ii) |
+| [0542-01-matrix](https://github.com/Sadanki/leetcode_2025/tree/master/0542-01-matrix) |
 ## Binary Search
 |  |
 | ------- |
