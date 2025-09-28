@@ -48,6 +48,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0416-partition-equal-subset-sum](https://github.com/Sadanki/leetcode_2025/tree/master/0416-partition-equal-subset-sum) |
 | [0463-island-perimeter](https://github.com/Sadanki/leetcode_2025/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/Sadanki/leetcode_2025/tree/master/0542-01-matrix) |
+| [1025-minimum-cost-for-tickets](https://github.com/Sadanki/leetcode_2025/tree/master/1025-minimum-cost-for-tickets) |
 ## Hash Table
 |  |
 | ------- |
@@ -108,6 +109,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Sadanki/leetcode_2025/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/Sadanki/leetcode_2025/tree/master/0542-01-matrix) |
+| [1025-minimum-cost-for-tickets](https://github.com/Sadanki/leetcode_2025/tree/master/1025-minimum-cost-for-tickets) |
 ## Greedy
 |  |
 | ------- |
