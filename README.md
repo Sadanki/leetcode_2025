@@ -128,6 +128,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Sadanki/leetcode_2025/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sadanki/leetcode_2025/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Math
 |  |
