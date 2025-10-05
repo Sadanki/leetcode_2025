@@ -49,6 +49,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0119-pascals-triangle-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Sadanki/leetcode_2025/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0213-house-robber-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0213-house-robber-ii) |
 | [0229-majority-element-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0240-search-a-2d-matrix-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Sadanki/leetcode_2025/tree/master/0416-partition-equal-subset-sum) |
@@ -130,6 +131,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0119-pascals-triangle-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Sadanki/leetcode_2025/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0213-house-robber-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Sadanki/leetcode_2025/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/Sadanki/leetcode_2025/tree/master/0542-01-matrix) |
 | [1025-minimum-cost-for-tickets](https://github.com/Sadanki/leetcode_2025/tree/master/1025-minimum-cost-for-tickets) |
