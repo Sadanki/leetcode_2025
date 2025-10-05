@@ -49,6 +49,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0119-pascals-triangle-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Sadanki/leetcode_2025/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/Sadanki/leetcode_2025/tree/master/0139-word-break) |
 | [0213-house-robber-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0213-house-robber-ii) |
 | [0229-majority-element-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0240-search-a-2d-matrix-ii) |
@@ -62,6 +63,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0036-valid-sudoku](https://github.com/Sadanki/leetcode_2025/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Sadanki/leetcode_2025/tree/master/0049-group-anagrams) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Sadanki/leetcode_2025/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0139-word-break](https://github.com/Sadanki/leetcode_2025/tree/master/0139-word-break) |
 | [0229-majority-element-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0229-majority-element-ii) |
 | [0567-permutation-in-string](https://github.com/Sadanki/leetcode_2025/tree/master/0567-permutation-in-string) |
 | [0778-reorganize-string](https://github.com/Sadanki/leetcode_2025/tree/master/0778-reorganize-string) |
@@ -71,6 +73,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0032-longest-valid-parentheses](https://github.com/Sadanki/leetcode_2025/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Sadanki/leetcode_2025/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Sadanki/leetcode_2025/tree/master/0067-add-binary) |
+| [0139-word-break](https://github.com/Sadanki/leetcode_2025/tree/master/0139-word-break) |
 | [0567-permutation-in-string](https://github.com/Sadanki/leetcode_2025/tree/master/0567-permutation-in-string) |
 | [0778-reorganize-string](https://github.com/Sadanki/leetcode_2025/tree/master/0778-reorganize-string) |
 ## Sorting
@@ -133,6 +136,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0119-pascals-triangle-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Sadanki/leetcode_2025/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/Sadanki/leetcode_2025/tree/master/0139-word-break) |
 | [0213-house-robber-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Sadanki/leetcode_2025/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/Sadanki/leetcode_2025/tree/master/0542-01-matrix) |
@@ -212,4 +216,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sadanki/leetcode_2025/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Sadanki/leetcode_2025/tree/master/0139-word-break) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Sadanki/leetcode_2025/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
