@@ -126,6 +126,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Sadanki/leetcode_2025/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0045-jump-game-ii) |
+| [0062-unique-paths](https://github.com/Sadanki/leetcode_2025/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Sadanki/leetcode_2025/tree/master/0064-minimum-path-sum) |
 | [0119-pascals-triangle-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0119-pascals-triangle-ii) |
@@ -169,6 +170,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Sadanki/leetcode_2025/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/Sadanki/leetcode_2025/tree/master/0067-add-binary) |
 ## Bit Manipulation
 |  |
@@ -200,4 +202,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 |  |
 | ------- |
 | [0778-reorganize-string](https://github.com/Sadanki/leetcode_2025/tree/master/0778-reorganize-string) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Sadanki/leetcode_2025/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
