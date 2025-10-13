@@ -43,6 +43,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0036-valid-sudoku](https://github.com/Sadanki/leetcode_2025/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/Sadanki/leetcode_2025/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/Sadanki/leetcode_2025/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Sadanki/leetcode_2025/tree/master/0064-minimum-path-sum) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Sadanki/leetcode_2025/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -141,6 +142,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Sadanki/leetcode_2025/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/Sadanki/leetcode_2025/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Sadanki/leetcode_2025/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Sadanki/leetcode_2025/tree/master/0064-minimum-path-sum) |
@@ -163,6 +165,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/Sadanki/leetcode_2025/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/Sadanki/leetcode_2025/tree/master/0455-assign-cookies) |
 | [0778-reorganize-string](https://github.com/Sadanki/leetcode_2025/tree/master/0778-reorganize-string) |
