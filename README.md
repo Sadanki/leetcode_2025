@@ -53,6 +53,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/Sadanki/leetcode_2025/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0140-word-break-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sadanki/leetcode_2025/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0213-house-robber-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0213-house-robber-ii) |
 | [0229-majority-element-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0240-search-a-2d-matrix-ii) |
@@ -189,6 +190,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sadanki/leetcode_2025/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Sadanki/leetcode_2025/tree/master/0035-search-insert-position) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sadanki/leetcode_2025/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0240-search-a-2d-matrix-ii) |
 ## Divide and Conquer
 |  |
