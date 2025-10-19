@@ -39,6 +39,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sadanki/leetcode_2025/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Sadanki/leetcode_2025/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Sadanki/leetcode_2025/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0045-jump-game-ii) |
@@ -186,6 +187,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sadanki/leetcode_2025/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Sadanki/leetcode_2025/tree/master/0035-search-insert-position) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0240-search-a-2d-matrix-ii) |
 ## Divide and Conquer
