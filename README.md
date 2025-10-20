@@ -62,6 +62,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sadanki/leetcode_2025/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/Sadanki/leetcode_2025/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/Sadanki/leetcode_2025/tree/master/0455-assign-cookies) |
+| [0456-132-pattern](https://github.com/Sadanki/leetcode_2025/tree/master/0456-132-pattern) |
 | [0463-island-perimeter](https://github.com/Sadanki/leetcode_2025/tree/master/0463-island-perimeter) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sadanki/leetcode_2025/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Sadanki/leetcode_2025/tree/master/0542-01-matrix) |
@@ -106,6 +107,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0032-longest-valid-parentheses](https://github.com/Sadanki/leetcode_2025/tree/master/0032-longest-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sadanki/leetcode_2025/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0155-min-stack](https://github.com/Sadanki/leetcode_2025/tree/master/0155-min-stack) |
+| [0456-132-pattern](https://github.com/Sadanki/leetcode_2025/tree/master/0456-132-pattern) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Sadanki/leetcode_2025/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Design
 |  |
@@ -203,6 +205,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0222-count-complete-tree-nodes](https://github.com/Sadanki/leetcode_2025/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sadanki/leetcode_2025/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0456-132-pattern](https://github.com/Sadanki/leetcode_2025/tree/master/0456-132-pattern) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sadanki/leetcode_2025/tree/master/0540-single-element-in-a-sorted-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Sadanki/leetcode_2025/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 ## Divide and Conquer
@@ -303,9 +306,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Monotonic Stack
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/Sadanki/leetcode_2025/tree/master/0456-132-pattern) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Sadanki/leetcode_2025/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Sadanki/leetcode_2025/tree/master/0209-minimum-size-subarray-sum) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/Sadanki/leetcode_2025/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
