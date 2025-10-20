@@ -200,6 +200,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sadanki/leetcode_2025/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Sadanki/leetcode_2025/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Sadanki/leetcode_2025/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sadanki/leetcode_2025/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sadanki/leetcode_2025/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Sadanki/leetcode_2025/tree/master/0222-count-complete-tree-nodes) |
@@ -224,6 +225,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | ------- |
 | [0062-unique-paths](https://github.com/Sadanki/leetcode_2025/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/Sadanki/leetcode_2025/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/Sadanki/leetcode_2025/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Sadanki/leetcode_2025/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sadanki/leetcode_2025/tree/master/0241-different-ways-to-add-parentheses) |
 | [1013-fibonacci-number](https://github.com/Sadanki/leetcode_2025/tree/master/1013-fibonacci-number) |
