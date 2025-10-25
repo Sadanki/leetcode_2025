@@ -150,6 +150,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0655-print-binary-tree](https://github.com/Sadanki/leetcode_2025/tree/master/0655-print-binary-tree) |
 | [0672-bulb-switcher-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0672-bulb-switcher-ii) |
 | [0754-cracking-the-safe](https://github.com/Sadanki/leetcode_2025/tree/master/0754-cracking-the-safe) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Sadanki/leetcode_2025/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [1722-throne-inheritance](https://github.com/Sadanki/leetcode_2025/tree/master/1722-throne-inheritance) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Sadanki/leetcode_2025/tree/master/2206-detonate-the-maximum-bombs) |
 ## Binary Tree
@@ -250,6 +251,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Sadanki/leetcode_2025/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sadanki/leetcode_2025/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Sadanki/leetcode_2025/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -365,4 +367,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 |  |
 | ------- |
 | [2206-detonate-the-maximum-bombs](https://github.com/Sadanki/leetcode_2025/tree/master/2206-detonate-the-maximum-bombs) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Sadanki/leetcode_2025/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
