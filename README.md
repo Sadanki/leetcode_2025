@@ -141,6 +141,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0543-diameter-of-binary-tree](https://github.com/Sadanki/leetcode_2025/tree/master/0543-diameter-of-binary-tree) |
 | [0655-print-binary-tree](https://github.com/Sadanki/leetcode_2025/tree/master/0655-print-binary-tree) |
 | [0672-bulb-switcher-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0672-bulb-switcher-ii) |
+| [0754-cracking-the-safe](https://github.com/Sadanki/leetcode_2025/tree/master/0754-cracking-the-safe) |
 ## Binary Tree
 |  |
 | ------- |
@@ -307,6 +308,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sadanki/leetcode_2025/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0754-cracking-the-safe](https://github.com/Sadanki/leetcode_2025/tree/master/0754-cracking-the-safe) |
 ## Topological Sort
 |  |
 | ------- |
@@ -338,4 +340,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Sadanki/leetcode_2025/tree/master/0098-validate-binary-search-tree) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0754-cracking-the-safe](https://github.com/Sadanki/leetcode_2025/tree/master/0754-cracking-the-safe) |
 <!---LeetCode Topics End-->
