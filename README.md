@@ -138,6 +138,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0437-path-sum-iii](https://github.com/Sadanki/leetcode_2025/tree/master/0437-path-sum-iii) |
 | [0463-island-perimeter](https://github.com/Sadanki/leetcode_2025/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/Sadanki/leetcode_2025/tree/master/0543-diameter-of-binary-tree) |
+| [0672-bulb-switcher-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0672-bulb-switcher-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -158,6 +159,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sadanki/leetcode_2025/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0463-island-perimeter](https://github.com/Sadanki/leetcode_2025/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/Sadanki/leetcode_2025/tree/master/0542-01-matrix) |
+| [0672-bulb-switcher-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0672-bulb-switcher-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -236,12 +238,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0069-sqrtx](https://github.com/Sadanki/leetcode_2025/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Sadanki/leetcode_2025/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sadanki/leetcode_2025/tree/master/0241-different-ways-to-add-parentheses) |
+| [0672-bulb-switcher-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0672-bulb-switcher-ii) |
 | [1013-fibonacci-number](https://github.com/Sadanki/leetcode_2025/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Sadanki/leetcode_2025/tree/master/0067-add-binary) |
 | [0222-count-complete-tree-nodes](https://github.com/Sadanki/leetcode_2025/tree/master/0222-count-complete-tree-nodes) |
+| [0672-bulb-switcher-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0672-bulb-switcher-ii) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Sadanki/leetcode_2025/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Simulation
 |  |
