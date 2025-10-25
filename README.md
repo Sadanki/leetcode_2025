@@ -117,6 +117,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Sadanki/leetcode_2025/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Sadanki/leetcode_2025/tree/master/0102-binary-tree-level-order-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Sadanki/leetcode_2025/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0113-path-sum-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0113-path-sum-ii) |
@@ -128,6 +129,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Sadanki/leetcode_2025/tree/master/0098-validate-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sadanki/leetcode_2025/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sadanki/leetcode_2025/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -137,6 +139,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Sadanki/leetcode_2025/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Sadanki/leetcode_2025/tree/master/0102-binary-tree-level-order-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Sadanki/leetcode_2025/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0113-path-sum-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0113-path-sum-ii) |
@@ -320,4 +323,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/Sadanki/leetcode_2025/tree/master/0456-132-pattern) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Sadanki/leetcode_2025/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
