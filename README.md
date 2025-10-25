@@ -134,6 +134,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0437-path-sum-iii](https://github.com/Sadanki/leetcode_2025/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Sadanki/leetcode_2025/tree/master/0543-diameter-of-binary-tree) |
 | [0655-print-binary-tree](https://github.com/Sadanki/leetcode_2025/tree/master/0655-print-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Sadanki/leetcode_2025/tree/master/0662-maximum-width-of-binary-tree) |
 | [0930-all-possible-full-binary-trees](https://github.com/Sadanki/leetcode_2025/tree/master/0930-all-possible-full-binary-trees) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/Sadanki/leetcode_2025/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1722-throne-inheritance](https://github.com/Sadanki/leetcode_2025/tree/master/1722-throne-inheritance) |
@@ -152,6 +153,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0463-island-perimeter](https://github.com/Sadanki/leetcode_2025/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/Sadanki/leetcode_2025/tree/master/0543-diameter-of-binary-tree) |
 | [0655-print-binary-tree](https://github.com/Sadanki/leetcode_2025/tree/master/0655-print-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Sadanki/leetcode_2025/tree/master/0662-maximum-width-of-binary-tree) |
 | [0672-bulb-switcher-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0672-bulb-switcher-ii) |
 | [0684-redundant-connection](https://github.com/Sadanki/leetcode_2025/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/Sadanki/leetcode_2025/tree/master/0733-flood-fill) |
@@ -176,6 +178,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0437-path-sum-iii](https://github.com/Sadanki/leetcode_2025/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Sadanki/leetcode_2025/tree/master/0543-diameter-of-binary-tree) |
 | [0655-print-binary-tree](https://github.com/Sadanki/leetcode_2025/tree/master/0655-print-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Sadanki/leetcode_2025/tree/master/0662-maximum-width-of-binary-tree) |
 | [0930-all-possible-full-binary-trees](https://github.com/Sadanki/leetcode_2025/tree/master/0930-all-possible-full-binary-trees) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/Sadanki/leetcode_2025/tree/master/1021-distribute-coins-in-binary-tree) |
 ## Breadth-First Search
@@ -188,6 +191,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0463-island-perimeter](https://github.com/Sadanki/leetcode_2025/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/Sadanki/leetcode_2025/tree/master/0542-01-matrix) |
 | [0655-print-binary-tree](https://github.com/Sadanki/leetcode_2025/tree/master/0655-print-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Sadanki/leetcode_2025/tree/master/0662-maximum-width-of-binary-tree) |
 | [0672-bulb-switcher-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0672-bulb-switcher-ii) |
 | [0684-redundant-connection](https://github.com/Sadanki/leetcode_2025/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/Sadanki/leetcode_2025/tree/master/0733-flood-fill) |
