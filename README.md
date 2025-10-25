@@ -126,6 +126,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sadanki/leetcode_2025/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Sadanki/leetcode_2025/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Sadanki/leetcode_2025/tree/master/0543-diameter-of-binary-tree) |
+| [0655-print-binary-tree](https://github.com/Sadanki/leetcode_2025/tree/master/0655-print-binary-tree) |
 | [0930-all-possible-full-binary-trees](https://github.com/Sadanki/leetcode_2025/tree/master/0930-all-possible-full-binary-trees) |
 ## Depth-First Search
 |  |
@@ -138,6 +139,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0437-path-sum-iii](https://github.com/Sadanki/leetcode_2025/tree/master/0437-path-sum-iii) |
 | [0463-island-perimeter](https://github.com/Sadanki/leetcode_2025/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/Sadanki/leetcode_2025/tree/master/0543-diameter-of-binary-tree) |
+| [0655-print-binary-tree](https://github.com/Sadanki/leetcode_2025/tree/master/0655-print-binary-tree) |
 | [0672-bulb-switcher-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0672-bulb-switcher-ii) |
 ## Binary Tree
 |  |
@@ -151,6 +153,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sadanki/leetcode_2025/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Sadanki/leetcode_2025/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Sadanki/leetcode_2025/tree/master/0543-diameter-of-binary-tree) |
+| [0655-print-binary-tree](https://github.com/Sadanki/leetcode_2025/tree/master/0655-print-binary-tree) |
 | [0930-all-possible-full-binary-trees](https://github.com/Sadanki/leetcode_2025/tree/master/0930-all-possible-full-binary-trees) |
 ## Breadth-First Search
 |  |
@@ -159,6 +162,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sadanki/leetcode_2025/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0463-island-perimeter](https://github.com/Sadanki/leetcode_2025/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/Sadanki/leetcode_2025/tree/master/0542-01-matrix) |
+| [0655-print-binary-tree](https://github.com/Sadanki/leetcode_2025/tree/master/0655-print-binary-tree) |
 | [0672-bulb-switcher-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0672-bulb-switcher-ii) |
 ## Dynamic Programming
 |  |
