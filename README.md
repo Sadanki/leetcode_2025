@@ -90,6 +90,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/Sadanki/leetcode_2025/tree/master/0006-zigzag-conversion) |
 | [0032-longest-valid-parentheses](https://github.com/Sadanki/leetcode_2025/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Sadanki/leetcode_2025/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Sadanki/leetcode_2025/tree/master/0067-add-binary) |
