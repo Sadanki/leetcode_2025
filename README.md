@@ -94,6 +94,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0067-add-binary](https://github.com/Sadanki/leetcode_2025/tree/master/0067-add-binary) |
 | [0139-word-break](https://github.com/Sadanki/leetcode_2025/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0140-word-break-ii) |
+| [0224-basic-calculator](https://github.com/Sadanki/leetcode_2025/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sadanki/leetcode_2025/tree/master/0241-different-ways-to-add-parentheses) |
 | [0567-permutation-in-string](https://github.com/Sadanki/leetcode_2025/tree/master/0567-permutation-in-string) |
 | [0778-reorganize-string](https://github.com/Sadanki/leetcode_2025/tree/master/0778-reorganize-string) |
@@ -113,6 +114,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0032-longest-valid-parentheses](https://github.com/Sadanki/leetcode_2025/tree/master/0032-longest-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sadanki/leetcode_2025/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0155-min-stack](https://github.com/Sadanki/leetcode_2025/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/Sadanki/leetcode_2025/tree/master/0224-basic-calculator) |
 | [0456-132-pattern](https://github.com/Sadanki/leetcode_2025/tree/master/0456-132-pattern) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Sadanki/leetcode_2025/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Sadanki/leetcode_2025/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
@@ -284,6 +286,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0067-add-binary](https://github.com/Sadanki/leetcode_2025/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Sadanki/leetcode_2025/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Sadanki/leetcode_2025/tree/master/0070-climbing-stairs) |
+| [0224-basic-calculator](https://github.com/Sadanki/leetcode_2025/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sadanki/leetcode_2025/tree/master/0241-different-ways-to-add-parentheses) |
 | [0672-bulb-switcher-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0672-bulb-switcher-ii) |
 | [1013-fibonacci-number](https://github.com/Sadanki/leetcode_2025/tree/master/1013-fibonacci-number) |
@@ -366,6 +369,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Recursion
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/Sadanki/leetcode_2025/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sadanki/leetcode_2025/tree/master/0241-different-ways-to-add-parentheses) |
 | [0930-all-possible-full-binary-trees](https://github.com/Sadanki/leetcode_2025/tree/master/0930-all-possible-full-binary-trees) |
 | [1013-fibonacci-number](https://github.com/Sadanki/leetcode_2025/tree/master/1013-fibonacci-number) |
