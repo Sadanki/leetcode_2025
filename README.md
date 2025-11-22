@@ -39,6 +39,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Sadanki/leetcode_2025/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Sadanki/leetcode_2025/tree/master/0018-4sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sadanki/leetcode_2025/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Sadanki/leetcode_2025/tree/master/0035-search-insert-position) |
@@ -113,6 +114,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Sadanki/leetcode_2025/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Sadanki/leetcode_2025/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Sadanki/leetcode_2025/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Sadanki/leetcode_2025/tree/master/0075-sort-colors) |
@@ -331,6 +333,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Sadanki/leetcode_2025/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Sadanki/leetcode_2025/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Sadanki/leetcode_2025/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
