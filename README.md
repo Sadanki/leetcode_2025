@@ -47,6 +47,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0055-jump-game](https://github.com/Sadanki/leetcode_2025/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Sadanki/leetcode_2025/tree/master/0064-minimum-path-sum) |
+| [0075-sort-colors](https://github.com/Sadanki/leetcode_2025/tree/master/0075-sort-colors) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Sadanki/leetcode_2025/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0119-pascals-triangle-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Sadanki/leetcode_2025/tree/master/0120-triangle) |
@@ -109,6 +110,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Sadanki/leetcode_2025/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/Sadanki/leetcode_2025/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0229-majority-element-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sadanki/leetcode_2025/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/Sadanki/leetcode_2025/tree/master/0455-assign-cookies) |
@@ -319,6 +321,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Sadanki/leetcode_2025/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0455-assign-cookies](https://github.com/Sadanki/leetcode_2025/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/Sadanki/leetcode_2025/tree/master/0567-permutation-in-string) |
