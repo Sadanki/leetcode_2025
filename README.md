@@ -75,6 +75,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Sadanki/leetcode_2025/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0733-flood-fill](https://github.com/Sadanki/leetcode_2025/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/Sadanki/leetcode_2025/tree/master/0792-binary-search) |
+| [1014-k-closest-points-to-origin](https://github.com/Sadanki/leetcode_2025/tree/master/1014-k-closest-points-to-origin) |
 | [1025-minimum-cost-for-tickets](https://github.com/Sadanki/leetcode_2025/tree/master/1025-minimum-cost-for-tickets) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Sadanki/leetcode_2025/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Sadanki/leetcode_2025/tree/master/2206-detonate-the-maximum-bombs) |
@@ -125,6 +126,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0455-assign-cookies](https://github.com/Sadanki/leetcode_2025/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Sadanki/leetcode_2025/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0778-reorganize-string](https://github.com/Sadanki/leetcode_2025/tree/master/0778-reorganize-string) |
+| [1014-k-closest-points-to-origin](https://github.com/Sadanki/leetcode_2025/tree/master/1014-k-closest-points-to-origin) |
 ## Stack
 |  |
 | ------- |
@@ -293,6 +295,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0215-kth-largest-element-in-an-array](https://github.com/Sadanki/leetcode_2025/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Sadanki/leetcode_2025/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/Sadanki/leetcode_2025/tree/master/1014-k-closest-points-to-origin) |
 ## Linked List
 |  |
 | ------- |
@@ -312,6 +315,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0241-different-ways-to-add-parentheses](https://github.com/Sadanki/leetcode_2025/tree/master/0241-different-ways-to-add-parentheses) |
 | [0672-bulb-switcher-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0672-bulb-switcher-ii) |
 | [1013-fibonacci-number](https://github.com/Sadanki/leetcode_2025/tree/master/1013-fibonacci-number) |
+| [1014-k-closest-points-to-origin](https://github.com/Sadanki/leetcode_2025/tree/master/1014-k-closest-points-to-origin) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Sadanki/leetcode_2025/tree/master/2206-detonate-the-maximum-bombs) |
 ## Bit Manipulation
 |  |
@@ -359,6 +363,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0347-top-k-frequent-elements](https://github.com/Sadanki/leetcode_2025/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sadanki/leetcode_2025/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0778-reorganize-string](https://github.com/Sadanki/leetcode_2025/tree/master/0778-reorganize-string) |
+| [1014-k-closest-points-to-origin](https://github.com/Sadanki/leetcode_2025/tree/master/1014-k-closest-points-to-origin) |
 ## Combinatorics
 |  |
 | ------- |
@@ -426,6 +431,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Geometry
 |  |
 | ------- |
+| [1014-k-closest-points-to-origin](https://github.com/Sadanki/leetcode_2025/tree/master/1014-k-closest-points-to-origin) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Sadanki/leetcode_2025/tree/master/2206-detonate-the-maximum-bombs) |
 ## Doubly-Linked List
 |  |
@@ -440,6 +446,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sadanki/leetcode_2025/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Sadanki/leetcode_2025/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/Sadanki/leetcode_2025/tree/master/1014-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
