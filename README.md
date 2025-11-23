@@ -86,6 +86,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [1726-coordinate-with-maximum-network-quality](https://github.com/Sadanki/leetcode_2025/tree/master/1726-coordinate-with-maximum-network-quality) |
 | [1733-maximum-number-of-visible-points](https://github.com/Sadanki/leetcode_2025/tree/master/1733-maximum-number-of-visible-points) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Sadanki/leetcode_2025/tree/master/2206-detonate-the-maximum-bombs) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/Sadanki/leetcode_2025/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 ## Hash Table
 |  |
 | ------- |
@@ -125,6 +126,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [1470-tweet-counts-per-frequency](https://github.com/Sadanki/leetcode_2025/tree/master/1470-tweet-counts-per-frequency) |
 | [2173-number-of-valid-words-in-a-sentence](https://github.com/Sadanki/leetcode_2025/tree/master/2173-number-of-valid-words-in-a-sentence) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Sadanki/leetcode_2025/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/Sadanki/leetcode_2025/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 ## Sorting
 |  |
 | ------- |
