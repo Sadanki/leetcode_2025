@@ -44,6 +44,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sadanki/leetcode_2025/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Sadanki/leetcode_2025/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Sadanki/leetcode_2025/tree/master/0036-valid-sudoku) |
+| [0039-combination-sum](https://github.com/Sadanki/leetcode_2025/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/Sadanki/leetcode_2025/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Sadanki/leetcode_2025/tree/master/0055-jump-game) |
@@ -366,6 +367,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Sadanki/leetcode_2025/tree/master/0039-combination-sum) |
 | [0113-path-sum-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0113-path-sum-ii) |
 | [0140-word-break-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0140-word-break-ii) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Sadanki/leetcode_2025/tree/master/0698-partition-to-k-equal-sum-subsets) |
