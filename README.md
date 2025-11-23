@@ -76,6 +76,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Sadanki/leetcode_2025/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0733-flood-fill](https://github.com/Sadanki/leetcode_2025/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/Sadanki/leetcode_2025/tree/master/0792-binary-search) |
+| [0805-escape-the-ghosts](https://github.com/Sadanki/leetcode_2025/tree/master/0805-escape-the-ghosts) |
 | [1014-k-closest-points-to-origin](https://github.com/Sadanki/leetcode_2025/tree/master/1014-k-closest-points-to-origin) |
 | [1025-minimum-cost-for-tickets](https://github.com/Sadanki/leetcode_2025/tree/master/1025-minimum-cost-for-tickets) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Sadanki/leetcode_2025/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -326,6 +327,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0224-basic-calculator](https://github.com/Sadanki/leetcode_2025/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sadanki/leetcode_2025/tree/master/0241-different-ways-to-add-parentheses) |
 | [0672-bulb-switcher-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0672-bulb-switcher-ii) |
+| [0805-escape-the-ghosts](https://github.com/Sadanki/leetcode_2025/tree/master/0805-escape-the-ghosts) |
 | [1013-fibonacci-number](https://github.com/Sadanki/leetcode_2025/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/Sadanki/leetcode_2025/tree/master/1014-k-closest-points-to-origin) |
 | [1733-maximum-number-of-visible-points](https://github.com/Sadanki/leetcode_2025/tree/master/1733-maximum-number-of-visible-points) |
