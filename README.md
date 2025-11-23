@@ -125,6 +125,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0782-jewels-and-stones](https://github.com/Sadanki/leetcode_2025/tree/master/0782-jewels-and-stones) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Sadanki/leetcode_2025/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1470-tweet-counts-per-frequency](https://github.com/Sadanki/leetcode_2025/tree/master/1470-tweet-counts-per-frequency) |
+| [2154-minimum-moves-to-convert-string](https://github.com/Sadanki/leetcode_2025/tree/master/2154-minimum-moves-to-convert-string) |
 | [2173-number-of-valid-words-in-a-sentence](https://github.com/Sadanki/leetcode_2025/tree/master/2173-number-of-valid-words-in-a-sentence) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Sadanki/leetcode_2025/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Sadanki/leetcode_2025/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -284,6 +285,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0678-valid-parenthesis-string](https://github.com/Sadanki/leetcode_2025/tree/master/0678-valid-parenthesis-string) |
 | [0778-reorganize-string](https://github.com/Sadanki/leetcode_2025/tree/master/0778-reorganize-string) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Sadanki/leetcode_2025/tree/master/1388-greatest-sum-divisible-by-three) |
+| [2154-minimum-moves-to-convert-string](https://github.com/Sadanki/leetcode_2025/tree/master/2154-minimum-moves-to-convert-string) |
 ## Matrix
 |  |
 | ------- |
