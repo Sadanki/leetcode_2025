@@ -103,6 +103,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0782-jewels-and-stones](https://github.com/Sadanki/leetcode_2025/tree/master/0782-jewels-and-stones) |
 | [1470-tweet-counts-per-frequency](https://github.com/Sadanki/leetcode_2025/tree/master/1470-tweet-counts-per-frequency) |
 | [1722-throne-inheritance](https://github.com/Sadanki/leetcode_2025/tree/master/1722-throne-inheritance) |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Sadanki/leetcode_2025/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 ## String
 |  |
 | ------- |
@@ -123,6 +124,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Sadanki/leetcode_2025/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1470-tweet-counts-per-frequency](https://github.com/Sadanki/leetcode_2025/tree/master/1470-tweet-counts-per-frequency) |
 | [2173-number-of-valid-words-in-a-sentence](https://github.com/Sadanki/leetcode_2025/tree/master/2173-number-of-valid-words-in-a-sentence) |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Sadanki/leetcode_2025/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 ## Sorting
 |  |
 | ------- |
@@ -359,6 +361,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0229-majority-element-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Sadanki/leetcode_2025/tree/master/0347-top-k-frequent-elements) |
 | [0778-reorganize-string](https://github.com/Sadanki/leetcode_2025/tree/master/0778-reorganize-string) |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Sadanki/leetcode_2025/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 ## Two Pointers
 |  |
 | ------- |
