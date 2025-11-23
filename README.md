@@ -125,6 +125,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0778-reorganize-string](https://github.com/Sadanki/leetcode_2025/tree/master/0778-reorganize-string) |
 | [0782-jewels-and-stones](https://github.com/Sadanki/leetcode_2025/tree/master/0782-jewels-and-stones) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Sadanki/leetcode_2025/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1454-remove-palindromic-subsequences](https://github.com/Sadanki/leetcode_2025/tree/master/1454-remove-palindromic-subsequences) |
 | [1470-tweet-counts-per-frequency](https://github.com/Sadanki/leetcode_2025/tree/master/1470-tweet-counts-per-frequency) |
 | [2154-minimum-moves-to-convert-string](https://github.com/Sadanki/leetcode_2025/tree/master/2154-minimum-moves-to-convert-string) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Sadanki/leetcode_2025/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
@@ -381,6 +382,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0567-permutation-in-string](https://github.com/Sadanki/leetcode_2025/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Sadanki/leetcode_2025/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sadanki/leetcode_2025/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1454-remove-palindromic-subsequences](https://github.com/Sadanki/leetcode_2025/tree/master/1454-remove-palindromic-subsequences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Sadanki/leetcode_2025/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Sliding Window
 |  |
