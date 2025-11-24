@@ -126,6 +126,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0678-valid-parenthesis-string](https://github.com/Sadanki/leetcode_2025/tree/master/0678-valid-parenthesis-string) |
 | [0778-reorganize-string](https://github.com/Sadanki/leetcode_2025/tree/master/0778-reorganize-string) |
 | [0782-jewels-and-stones](https://github.com/Sadanki/leetcode_2025/tree/master/0782-jewels-and-stones) |
+| [1274-number-of-days-between-two-dates](https://github.com/Sadanki/leetcode_2025/tree/master/1274-number-of-days-between-two-dates) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Sadanki/leetcode_2025/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1454-remove-palindromic-subsequences](https://github.com/Sadanki/leetcode_2025/tree/master/1454-remove-palindromic-subsequences) |
 | [1470-tweet-counts-per-frequency](https://github.com/Sadanki/leetcode_2025/tree/master/1470-tweet-counts-per-frequency) |
@@ -351,6 +352,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0805-escape-the-ghosts](https://github.com/Sadanki/leetcode_2025/tree/master/0805-escape-the-ghosts) |
 | [1013-fibonacci-number](https://github.com/Sadanki/leetcode_2025/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/Sadanki/leetcode_2025/tree/master/1014-k-closest-points-to-origin) |
+| [1274-number-of-days-between-two-dates](https://github.com/Sadanki/leetcode_2025/tree/master/1274-number-of-days-between-two-dates) |
 | [1733-maximum-number-of-visible-points](https://github.com/Sadanki/leetcode_2025/tree/master/1733-maximum-number-of-visible-points) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Sadanki/leetcode_2025/tree/master/2206-detonate-the-maximum-bombs) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Sadanki/leetcode_2025/tree/master/2238-a-number-after-a-double-reversal) |
