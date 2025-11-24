@@ -86,6 +86,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [1726-coordinate-with-maximum-network-quality](https://github.com/Sadanki/leetcode_2025/tree/master/1726-coordinate-with-maximum-network-quality) |
 | [1733-maximum-number-of-visible-points](https://github.com/Sadanki/leetcode_2025/tree/master/1733-maximum-number-of-visible-points) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/Sadanki/leetcode_2025/tree/master/1975-minimum-distance-to-the-target-element) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/Sadanki/leetcode_2025/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Sadanki/leetcode_2025/tree/master/2206-detonate-the-maximum-bombs) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Sadanki/leetcode_2025/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Sadanki/leetcode_2025/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -107,6 +108,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [1470-tweet-counts-per-frequency](https://github.com/Sadanki/leetcode_2025/tree/master/1470-tweet-counts-per-frequency) |
 | [1722-throne-inheritance](https://github.com/Sadanki/leetcode_2025/tree/master/1722-throne-inheritance) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Sadanki/leetcode_2025/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/Sadanki/leetcode_2025/tree/master/2190-count-common-words-with-one-occurrence) |
 ## String
 |  |
 | ------- |
@@ -131,6 +133,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Sadanki/leetcode_2025/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2173-number-of-valid-words-in-a-sentence](https://github.com/Sadanki/leetcode_2025/tree/master/2173-number-of-valid-words-in-a-sentence) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Sadanki/leetcode_2025/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/Sadanki/leetcode_2025/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Sadanki/leetcode_2025/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Sadanki/leetcode_2025/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Sorting
@@ -371,6 +374,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0347-top-k-frequent-elements](https://github.com/Sadanki/leetcode_2025/tree/master/0347-top-k-frequent-elements) |
 | [0778-reorganize-string](https://github.com/Sadanki/leetcode_2025/tree/master/0778-reorganize-string) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Sadanki/leetcode_2025/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/Sadanki/leetcode_2025/tree/master/2190-count-common-words-with-one-occurrence) |
 ## Two Pointers
 |  |
 | ------- |
