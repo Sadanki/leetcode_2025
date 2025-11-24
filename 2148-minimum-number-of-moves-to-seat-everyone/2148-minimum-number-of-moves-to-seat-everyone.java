@@ -1,5 +1,3 @@
-import java.util.*;
-
 class Solution {
     public int minMovesToSeat(int[] seats, int[] students) {
         // Sort both arrays
