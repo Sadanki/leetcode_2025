@@ -91,6 +91,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [2122-count-special-quadruplets](https://github.com/Sadanki/leetcode_2025/tree/master/2122-count-special-quadruplets) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Sadanki/leetcode_2025/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Sadanki/leetcode_2025/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2159-two-out-of-three](https://github.com/Sadanki/leetcode_2025/tree/master/2159-two-out-of-three) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Sadanki/leetcode_2025/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Sadanki/leetcode_2025/tree/master/2206-detonate-the-maximum-bombs) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Sadanki/leetcode_2025/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -113,6 +114,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [1470-tweet-counts-per-frequency](https://github.com/Sadanki/leetcode_2025/tree/master/1470-tweet-counts-per-frequency) |
 | [1722-throne-inheritance](https://github.com/Sadanki/leetcode_2025/tree/master/1722-throne-inheritance) |
 | [2122-count-special-quadruplets](https://github.com/Sadanki/leetcode_2025/tree/master/2122-count-special-quadruplets) |
+| [2159-two-out-of-three](https://github.com/Sadanki/leetcode_2025/tree/master/2159-two-out-of-three) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Sadanki/leetcode_2025/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Sadanki/leetcode_2025/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2226-rings-and-rods](https://github.com/Sadanki/leetcode_2025/tree/master/2226-rings-and-rods) |
@@ -379,6 +381,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0222-count-complete-tree-nodes](https://github.com/Sadanki/leetcode_2025/tree/master/0222-count-complete-tree-nodes) |
 | [0672-bulb-switcher-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0672-bulb-switcher-ii) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Sadanki/leetcode_2025/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [2159-two-out-of-three](https://github.com/Sadanki/leetcode_2025/tree/master/2159-two-out-of-three) |
 ## Simulation
 |  |
 | ------- |
