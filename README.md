@@ -363,6 +363,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [1014-k-closest-points-to-origin](https://github.com/Sadanki/leetcode_2025/tree/master/1014-k-closest-points-to-origin) |
 | [1274-number-of-days-between-two-dates](https://github.com/Sadanki/leetcode_2025/tree/master/1274-number-of-days-between-two-dates) |
 | [1733-maximum-number-of-visible-points](https://github.com/Sadanki/leetcode_2025/tree/master/1733-maximum-number-of-visible-points) |
+| [2083-three-divisors](https://github.com/Sadanki/leetcode_2025/tree/master/2083-three-divisors) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Sadanki/leetcode_2025/tree/master/2206-detonate-the-maximum-bombs) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Sadanki/leetcode_2025/tree/master/2238-a-number-after-a-double-reversal) |
 ## Bit Manipulation
@@ -515,8 +516,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 |  |
 | ------- |
 | [1726-coordinate-with-maximum-network-quality](https://github.com/Sadanki/leetcode_2025/tree/master/1726-coordinate-with-maximum-network-quality) |
+| [2083-three-divisors](https://github.com/Sadanki/leetcode_2025/tree/master/2083-three-divisors) |
 ## Counting Sort
 |  |
 | ------- |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Sadanki/leetcode_2025/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+## Number Theory
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/Sadanki/leetcode_2025/tree/master/2083-three-divisors) |
 <!---LeetCode Topics End-->
