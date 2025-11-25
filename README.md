@@ -88,6 +88,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [1733-maximum-number-of-visible-points](https://github.com/Sadanki/leetcode_2025/tree/master/1733-maximum-number-of-visible-points) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/Sadanki/leetcode_2025/tree/master/1975-minimum-distance-to-the-target-element) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Sadanki/leetcode_2025/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2122-count-special-quadruplets](https://github.com/Sadanki/leetcode_2025/tree/master/2122-count-special-quadruplets) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Sadanki/leetcode_2025/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Sadanki/leetcode_2025/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Sadanki/leetcode_2025/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -111,6 +112,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0782-jewels-and-stones](https://github.com/Sadanki/leetcode_2025/tree/master/0782-jewels-and-stones) |
 | [1470-tweet-counts-per-frequency](https://github.com/Sadanki/leetcode_2025/tree/master/1470-tweet-counts-per-frequency) |
 | [1722-throne-inheritance](https://github.com/Sadanki/leetcode_2025/tree/master/1722-throne-inheritance) |
+| [2122-count-special-quadruplets](https://github.com/Sadanki/leetcode_2025/tree/master/2122-count-special-quadruplets) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Sadanki/leetcode_2025/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Sadanki/leetcode_2025/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2226-rings-and-rods](https://github.com/Sadanki/leetcode_2025/tree/master/2226-rings-and-rods) |
@@ -519,6 +521,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | ------- |
 | [1726-coordinate-with-maximum-network-quality](https://github.com/Sadanki/leetcode_2025/tree/master/1726-coordinate-with-maximum-network-quality) |
 | [2083-three-divisors](https://github.com/Sadanki/leetcode_2025/tree/master/2083-three-divisors) |
+| [2122-count-special-quadruplets](https://github.com/Sadanki/leetcode_2025/tree/master/2122-count-special-quadruplets) |
 ## Counting Sort
 |  |
 | ------- |
