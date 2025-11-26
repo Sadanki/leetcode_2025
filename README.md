@@ -377,6 +377,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [1014-k-closest-points-to-origin](https://github.com/Sadanki/leetcode_2025/tree/master/1014-k-closest-points-to-origin) |
 | [1115-valid-boomerang](https://github.com/Sadanki/leetcode_2025/tree/master/1115-valid-boomerang) |
 | [1274-number-of-days-between-two-dates](https://github.com/Sadanki/leetcode_2025/tree/master/1274-number-of-days-between-two-dates) |
+| [1289-day-of-the-week](https://github.com/Sadanki/leetcode_2025/tree/master/1289-day-of-the-week) |
 | [1733-maximum-number-of-visible-points](https://github.com/Sadanki/leetcode_2025/tree/master/1733-maximum-number-of-visible-points) |
 | [2083-three-divisors](https://github.com/Sadanki/leetcode_2025/tree/master/2083-three-divisors) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Sadanki/leetcode_2025/tree/master/2206-detonate-the-maximum-bombs) |
