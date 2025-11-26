@@ -81,6 +81,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [1014-k-closest-points-to-origin](https://github.com/Sadanki/leetcode_2025/tree/master/1014-k-closest-points-to-origin) |
 | [1025-minimum-cost-for-tickets](https://github.com/Sadanki/leetcode_2025/tree/master/1025-minimum-cost-for-tickets) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Sadanki/leetcode_2025/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1115-valid-boomerang](https://github.com/Sadanki/leetcode_2025/tree/master/1115-valid-boomerang) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Sadanki/leetcode_2025/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1682-most-visited-sector-in-a-circular-track](https://github.com/Sadanki/leetcode_2025/tree/master/1682-most-visited-sector-in-a-circular-track) |
 | [1721-maximum-profit-of-operating-a-centennial-wheel](https://github.com/Sadanki/leetcode_2025/tree/master/1721-maximum-profit-of-operating-a-centennial-wheel) |
@@ -374,6 +375,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0805-escape-the-ghosts](https://github.com/Sadanki/leetcode_2025/tree/master/0805-escape-the-ghosts) |
 | [1013-fibonacci-number](https://github.com/Sadanki/leetcode_2025/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/Sadanki/leetcode_2025/tree/master/1014-k-closest-points-to-origin) |
+| [1115-valid-boomerang](https://github.com/Sadanki/leetcode_2025/tree/master/1115-valid-boomerang) |
 | [1274-number-of-days-between-two-dates](https://github.com/Sadanki/leetcode_2025/tree/master/1274-number-of-days-between-two-dates) |
 | [1733-maximum-number-of-visible-points](https://github.com/Sadanki/leetcode_2025/tree/master/1733-maximum-number-of-visible-points) |
 | [2083-three-divisors](https://github.com/Sadanki/leetcode_2025/tree/master/2083-three-divisors) |
@@ -508,6 +510,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/Sadanki/leetcode_2025/tree/master/1014-k-closest-points-to-origin) |
+| [1115-valid-boomerang](https://github.com/Sadanki/leetcode_2025/tree/master/1115-valid-boomerang) |
 | [1733-maximum-number-of-visible-points](https://github.com/Sadanki/leetcode_2025/tree/master/1733-maximum-number-of-visible-points) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Sadanki/leetcode_2025/tree/master/2206-detonate-the-maximum-bombs) |
 ## Doubly-Linked List
