@@ -141,6 +141,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0678-valid-parenthesis-string](https://github.com/Sadanki/leetcode_2025/tree/master/0678-valid-parenthesis-string) |
 | [0778-reorganize-string](https://github.com/Sadanki/leetcode_2025/tree/master/0778-reorganize-string) |
 | [0782-jewels-and-stones](https://github.com/Sadanki/leetcode_2025/tree/master/0782-jewels-and-stones) |
+| [1260-day-of-the-year](https://github.com/Sadanki/leetcode_2025/tree/master/1260-day-of-the-year) |
 | [1274-number-of-days-between-two-dates](https://github.com/Sadanki/leetcode_2025/tree/master/1274-number-of-days-between-two-dates) |
 | [1283-reformat-date](https://github.com/Sadanki/leetcode_2025/tree/master/1283-reformat-date) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Sadanki/leetcode_2025/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
@@ -379,6 +380,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [1013-fibonacci-number](https://github.com/Sadanki/leetcode_2025/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/Sadanki/leetcode_2025/tree/master/1014-k-closest-points-to-origin) |
 | [1115-valid-boomerang](https://github.com/Sadanki/leetcode_2025/tree/master/1115-valid-boomerang) |
+| [1260-day-of-the-year](https://github.com/Sadanki/leetcode_2025/tree/master/1260-day-of-the-year) |
 | [1274-number-of-days-between-two-dates](https://github.com/Sadanki/leetcode_2025/tree/master/1274-number-of-days-between-two-dates) |
 | [1289-day-of-the-week](https://github.com/Sadanki/leetcode_2025/tree/master/1289-day-of-the-week) |
 | [1733-maximum-number-of-visible-points](https://github.com/Sadanki/leetcode_2025/tree/master/1733-maximum-number-of-visible-points) |
