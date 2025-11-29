@@ -396,6 +396,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [1279-prime-arrangements](https://github.com/Sadanki/leetcode_2025/tree/master/1279-prime-arrangements) |
 | [1289-day-of-the-week](https://github.com/Sadanki/leetcode_2025/tree/master/1289-day-of-the-week) |
 | [1733-maximum-number-of-visible-points](https://github.com/Sadanki/leetcode_2025/tree/master/1733-maximum-number-of-visible-points) |
+| [1965-sum-of-digits-in-base-k](https://github.com/Sadanki/leetcode_2025/tree/master/1965-sum-of-digits-in-base-k) |
 | [2083-three-divisors](https://github.com/Sadanki/leetcode_2025/tree/master/2083-three-divisors) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Sadanki/leetcode_2025/tree/master/2206-detonate-the-maximum-bombs) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Sadanki/leetcode_2025/tree/master/2238-a-number-after-a-double-reversal) |
