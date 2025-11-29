@@ -127,6 +127,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [2122-count-special-quadruplets](https://github.com/Sadanki/leetcode_2025/tree/master/2122-count-special-quadruplets) |
 | [2159-two-out-of-three](https://github.com/Sadanki/leetcode_2025/tree/master/2159-two-out-of-three) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Sadanki/leetcode_2025/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
+| [2186-count-vowel-substrings-of-a-string](https://github.com/Sadanki/leetcode_2025/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Sadanki/leetcode_2025/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2226-rings-and-rods](https://github.com/Sadanki/leetcode_2025/tree/master/2226-rings-and-rods) |
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Sadanki/leetcode_2025/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -165,6 +166,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Sadanki/leetcode_2025/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2173-number-of-valid-words-in-a-sentence](https://github.com/Sadanki/leetcode_2025/tree/master/2173-number-of-valid-words-in-a-sentence) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Sadanki/leetcode_2025/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
+| [2186-count-vowel-substrings-of-a-string](https://github.com/Sadanki/leetcode_2025/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Sadanki/leetcode_2025/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Sadanki/leetcode_2025/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2226-rings-and-rods](https://github.com/Sadanki/leetcode_2025/tree/master/2226-rings-and-rods) |
