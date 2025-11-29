@@ -126,6 +126,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [1470-tweet-counts-per-frequency](https://github.com/Sadanki/leetcode_2025/tree/master/1470-tweet-counts-per-frequency) |
 | [1722-throne-inheritance](https://github.com/Sadanki/leetcode_2025/tree/master/1722-throne-inheritance) |
 | [1904-second-largest-digit-in-a-string](https://github.com/Sadanki/leetcode_2025/tree/master/1904-second-largest-digit-in-a-string) |
+| [1933-number-of-different-integers-in-a-string](https://github.com/Sadanki/leetcode_2025/tree/master/1933-number-of-different-integers-in-a-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Sadanki/leetcode_2025/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2122-count-special-quadruplets](https://github.com/Sadanki/leetcode_2025/tree/master/2122-count-special-quadruplets) |
 | [2159-two-out-of-three](https://github.com/Sadanki/leetcode_2025/tree/master/2159-two-out-of-three) |
@@ -162,6 +163,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [1812-reformat-phone-number](https://github.com/Sadanki/leetcode_2025/tree/master/1812-reformat-phone-number) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/Sadanki/leetcode_2025/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 | [1904-second-largest-digit-in-a-string](https://github.com/Sadanki/leetcode_2025/tree/master/1904-second-largest-digit-in-a-string) |
+| [1933-number-of-different-integers-in-a-string](https://github.com/Sadanki/leetcode_2025/tree/master/1933-number-of-different-integers-in-a-string) |
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Sadanki/leetcode_2025/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Sadanki/leetcode_2025/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/Sadanki/leetcode_2025/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
