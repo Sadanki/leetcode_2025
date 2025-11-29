@@ -76,6 +76,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Sadanki/leetcode_2025/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Sadanki/leetcode_2025/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0733-flood-fill](https://github.com/Sadanki/leetcode_2025/tree/master/0733-flood-fill) |
+| [0749-shortest-completing-word](https://github.com/Sadanki/leetcode_2025/tree/master/0749-shortest-completing-word) |
 | [0792-binary-search](https://github.com/Sadanki/leetcode_2025/tree/master/0792-binary-search) |
 | [0805-escape-the-ghosts](https://github.com/Sadanki/leetcode_2025/tree/master/0805-escape-the-ghosts) |
 | [0864-image-overlap](https://github.com/Sadanki/leetcode_2025/tree/master/0864-image-overlap) |
@@ -121,6 +122,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0347-top-k-frequent-elements](https://github.com/Sadanki/leetcode_2025/tree/master/0347-top-k-frequent-elements) |
 | [0567-permutation-in-string](https://github.com/Sadanki/leetcode_2025/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sadanki/leetcode_2025/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0749-shortest-completing-word](https://github.com/Sadanki/leetcode_2025/tree/master/0749-shortest-completing-word) |
 | [0778-reorganize-string](https://github.com/Sadanki/leetcode_2025/tree/master/0778-reorganize-string) |
 | [0782-jewels-and-stones](https://github.com/Sadanki/leetcode_2025/tree/master/0782-jewels-and-stones) |
 | [1470-tweet-counts-per-frequency](https://github.com/Sadanki/leetcode_2025/tree/master/1470-tweet-counts-per-frequency) |
@@ -151,6 +153,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0551-student-attendance-record-i](https://github.com/Sadanki/leetcode_2025/tree/master/0551-student-attendance-record-i) |
 | [0567-permutation-in-string](https://github.com/Sadanki/leetcode_2025/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/Sadanki/leetcode_2025/tree/master/0678-valid-parenthesis-string) |
+| [0749-shortest-completing-word](https://github.com/Sadanki/leetcode_2025/tree/master/0749-shortest-completing-word) |
 | [0778-reorganize-string](https://github.com/Sadanki/leetcode_2025/tree/master/0778-reorganize-string) |
 | [0782-jewels-and-stones](https://github.com/Sadanki/leetcode_2025/tree/master/0782-jewels-and-stones) |
 | [1260-day-of-the-year](https://github.com/Sadanki/leetcode_2025/tree/master/1260-day-of-the-year) |
