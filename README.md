@@ -161,6 +161,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [1904-second-largest-digit-in-a-string](https://github.com/Sadanki/leetcode_2025/tree/master/1904-second-largest-digit-in-a-string) |
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Sadanki/leetcode_2025/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Sadanki/leetcode_2025/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/Sadanki/leetcode_2025/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Sadanki/leetcode_2025/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2154-minimum-moves-to-convert-string](https://github.com/Sadanki/leetcode_2025/tree/master/2154-minimum-moves-to-convert-string) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Sadanki/leetcode_2025/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
@@ -330,6 +331,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0778-reorganize-string](https://github.com/Sadanki/leetcode_2025/tree/master/0778-reorganize-string) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Sadanki/leetcode_2025/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/Sadanki/leetcode_2025/tree/master/1858-latest-time-by-replacing-hidden-digits) |
+| [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/Sadanki/leetcode_2025/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Sadanki/leetcode_2025/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2154-minimum-moves-to-convert-string](https://github.com/Sadanki/leetcode_2025/tree/master/2154-minimum-moves-to-convert-string) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/Sadanki/leetcode_2025/tree/master/2199-two-furthest-houses-with-different-colors) |
