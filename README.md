@@ -70,6 +70,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0455-assign-cookies](https://github.com/Sadanki/leetcode_2025/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/Sadanki/leetcode_2025/tree/master/0456-132-pattern) |
 | [0463-island-perimeter](https://github.com/Sadanki/leetcode_2025/tree/master/0463-island-perimeter) |
+| [0495-teemo-attacking](https://github.com/Sadanki/leetcode_2025/tree/master/0495-teemo-attacking) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sadanki/leetcode_2025/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Sadanki/leetcode_2025/tree/master/0542-01-matrix) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Sadanki/leetcode_2025/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -421,6 +422,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | ------- |
 | [0067-add-binary](https://github.com/Sadanki/leetcode_2025/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Sadanki/leetcode_2025/tree/master/0412-fizz-buzz) |
+| [0495-teemo-attacking](https://github.com/Sadanki/leetcode_2025/tree/master/0495-teemo-attacking) |
 | [1682-most-visited-sector-in-a-circular-track](https://github.com/Sadanki/leetcode_2025/tree/master/1682-most-visited-sector-in-a-circular-track) |
 | [1721-maximum-profit-of-operating-a-centennial-wheel](https://github.com/Sadanki/leetcode_2025/tree/master/1721-maximum-profit-of-operating-a-centennial-wheel) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Sadanki/leetcode_2025/tree/master/2132-convert-1d-array-into-2d-array) |
