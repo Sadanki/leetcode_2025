@@ -85,6 +85,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [1115-valid-boomerang](https://github.com/Sadanki/leetcode_2025/tree/master/1115-valid-boomerang) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Sadanki/leetcode_2025/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Sadanki/leetcode_2025/tree/master/1388-greatest-sum-divisible-by-three) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/Sadanki/leetcode_2025/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1682-most-visited-sector-in-a-circular-track](https://github.com/Sadanki/leetcode_2025/tree/master/1682-most-visited-sector-in-a-circular-track) |
 | [1721-maximum-profit-of-operating-a-centennial-wheel](https://github.com/Sadanki/leetcode_2025/tree/master/1721-maximum-profit-of-operating-a-centennial-wheel) |
 | [1726-coordinate-with-maximum-network-quality](https://github.com/Sadanki/leetcode_2025/tree/master/1726-coordinate-with-maximum-network-quality) |
@@ -192,6 +193,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Sadanki/leetcode_2025/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Sadanki/leetcode_2025/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1470-tweet-counts-per-frequency](https://github.com/Sadanki/leetcode_2025/tree/master/1470-tweet-counts-per-frequency) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/Sadanki/leetcode_2025/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1733-maximum-number-of-visible-points](https://github.com/Sadanki/leetcode_2025/tree/master/1733-maximum-number-of-visible-points) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Sadanki/leetcode_2025/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Sadanki/leetcode_2025/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -367,6 +369,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0792-binary-search](https://github.com/Sadanki/leetcode_2025/tree/master/0792-binary-search) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Sadanki/leetcode_2025/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1470-tweet-counts-per-frequency](https://github.com/Sadanki/leetcode_2025/tree/master/1470-tweet-counts-per-frequency) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/Sadanki/leetcode_2025/tree/master/1486-find-the-distance-value-between-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -448,6 +451,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Sadanki/leetcode_2025/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sadanki/leetcode_2025/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1454-remove-palindromic-subsequences](https://github.com/Sadanki/leetcode_2025/tree/master/1454-remove-palindromic-subsequences) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/Sadanki/leetcode_2025/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Sadanki/leetcode_2025/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Sadanki/leetcode_2025/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Sliding Window
