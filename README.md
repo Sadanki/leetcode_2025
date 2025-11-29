@@ -159,6 +159,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Sadanki/leetcode_2025/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1454-remove-palindromic-subsequences](https://github.com/Sadanki/leetcode_2025/tree/master/1454-remove-palindromic-subsequences) |
 | [1470-tweet-counts-per-frequency](https://github.com/Sadanki/leetcode_2025/tree/master/1470-tweet-counts-per-frequency) |
+| [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Sadanki/leetcode_2025/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1714-rearrange-spaces-between-words](https://github.com/Sadanki/leetcode_2025/tree/master/1714-rearrange-spaces-between-words) |
 | [1812-reformat-phone-number](https://github.com/Sadanki/leetcode_2025/tree/master/1812-reformat-phone-number) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/Sadanki/leetcode_2025/tree/master/1858-latest-time-by-replacing-hidden-digits) |
