@@ -91,6 +91,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [1721-maximum-profit-of-operating-a-centennial-wheel](https://github.com/Sadanki/leetcode_2025/tree/master/1721-maximum-profit-of-operating-a-centennial-wheel) |
 | [1726-coordinate-with-maximum-network-quality](https://github.com/Sadanki/leetcode_2025/tree/master/1726-coordinate-with-maximum-network-quality) |
 | [1733-maximum-number-of-visible-points](https://github.com/Sadanki/leetcode_2025/tree/master/1733-maximum-number-of-visible-points) |
+| [1843-number-of-rectangles-that-can-form-the-largest-square](https://github.com/Sadanki/leetcode_2025/tree/master/1843-number-of-rectangles-that-can-form-the-largest-square) |
 | [1888-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/Sadanki/leetcode_2025/tree/master/1888-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/Sadanki/leetcode_2025/tree/master/1975-minimum-distance-to-the-target-element) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Sadanki/leetcode_2025/tree/master/2093-check-if-string-is-a-prefix-of-array) |
