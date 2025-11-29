@@ -91,6 +91,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [1888-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/Sadanki/leetcode_2025/tree/master/1888-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/Sadanki/leetcode_2025/tree/master/1975-minimum-distance-to-the-target-element) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Sadanki/leetcode_2025/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2102-find-the-middle-index-in-array](https://github.com/Sadanki/leetcode_2025/tree/master/2102-find-the-middle-index-in-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Sadanki/leetcode_2025/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Sadanki/leetcode_2025/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2122-count-special-quadruplets](https://github.com/Sadanki/leetcode_2025/tree/master/2122-count-special-quadruplets) |
@@ -520,6 +521,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Sadanki/leetcode_2025/tree/master/0209-minimum-size-subarray-sum) |
+| [2102-find-the-middle-index-in-array](https://github.com/Sadanki/leetcode_2025/tree/master/2102-find-the-middle-index-in-array) |
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Sadanki/leetcode_2025/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
 ## Ordered Set
 |  |
