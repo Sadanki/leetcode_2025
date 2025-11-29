@@ -91,6 +91,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [1721-maximum-profit-of-operating-a-centennial-wheel](https://github.com/Sadanki/leetcode_2025/tree/master/1721-maximum-profit-of-operating-a-centennial-wheel) |
 | [1726-coordinate-with-maximum-network-quality](https://github.com/Sadanki/leetcode_2025/tree/master/1726-coordinate-with-maximum-network-quality) |
 | [1733-maximum-number-of-visible-points](https://github.com/Sadanki/leetcode_2025/tree/master/1733-maximum-number-of-visible-points) |
+| [1769-get-maximum-in-generated-array](https://github.com/Sadanki/leetcode_2025/tree/master/1769-get-maximum-in-generated-array) |
 | [1843-number-of-rectangles-that-can-form-the-largest-square](https://github.com/Sadanki/leetcode_2025/tree/master/1843-number-of-rectangles-that-can-form-the-largest-square) |
 | [1888-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/Sadanki/leetcode_2025/tree/master/1888-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/Sadanki/leetcode_2025/tree/master/1975-minimum-distance-to-the-target-element) |
@@ -436,6 +437,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0495-teemo-attacking](https://github.com/Sadanki/leetcode_2025/tree/master/0495-teemo-attacking) |
 | [1682-most-visited-sector-in-a-circular-track](https://github.com/Sadanki/leetcode_2025/tree/master/1682-most-visited-sector-in-a-circular-track) |
 | [1721-maximum-profit-of-operating-a-centennial-wheel](https://github.com/Sadanki/leetcode_2025/tree/master/1721-maximum-profit-of-operating-a-centennial-wheel) |
+| [1769-get-maximum-in-generated-array](https://github.com/Sadanki/leetcode_2025/tree/master/1769-get-maximum-in-generated-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Sadanki/leetcode_2025/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Sadanki/leetcode_2025/tree/master/2195-time-needed-to-buy-tickets) |
 ## Counting
