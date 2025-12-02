@@ -531,6 +531,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sadanki/leetcode_2025/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0684-redundant-connection](https://github.com/Sadanki/leetcode_2025/tree/master/0684-redundant-connection) |
 | [0754-cracking-the-safe](https://github.com/Sadanki/leetcode_2025/tree/master/0754-cracking-the-safe) |
+| [1916-find-center-of-star-graph](https://github.com/Sadanki/leetcode_2025/tree/master/1916-find-center-of-star-graph) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Sadanki/leetcode_2025/tree/master/2206-detonate-the-maximum-bombs) |
 ## Topological Sort
 |  |
