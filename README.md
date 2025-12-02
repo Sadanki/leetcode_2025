@@ -179,6 +179,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [1714-rearrange-spaces-between-words](https://github.com/Sadanki/leetcode_2025/tree/master/1714-rearrange-spaces-between-words) |
 | [1812-reformat-phone-number](https://github.com/Sadanki/leetcode_2025/tree/master/1812-reformat-phone-number) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/Sadanki/leetcode_2025/tree/master/1858-latest-time-by-replacing-hidden-digits) |
+| [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/Sadanki/leetcode_2025/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 | [1904-second-largest-digit-in-a-string](https://github.com/Sadanki/leetcode_2025/tree/master/1904-second-largest-digit-in-a-string) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/Sadanki/leetcode_2025/tree/master/1933-number-of-different-integers-in-a-string) |
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Sadanki/leetcode_2025/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
