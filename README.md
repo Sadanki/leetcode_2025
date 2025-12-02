@@ -99,6 +99,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [1769-get-maximum-in-generated-array](https://github.com/Sadanki/leetcode_2025/tree/master/1769-get-maximum-in-generated-array) |
 | [1843-number-of-rectangles-that-can-form-the-largest-square](https://github.com/Sadanki/leetcode_2025/tree/master/1843-number-of-rectangles-that-can-form-the-largest-square) |
 | [1888-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/Sadanki/leetcode_2025/tree/master/1888-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/Sadanki/leetcode_2025/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/Sadanki/leetcode_2025/tree/master/1975-minimum-distance-to-the-target-element) |
 | [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/Sadanki/leetcode_2025/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Sadanki/leetcode_2025/tree/master/2093-check-if-string-is-a-prefix-of-array) |
@@ -429,6 +430,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [1289-day-of-the-week](https://github.com/Sadanki/leetcode_2025/tree/master/1289-day-of-the-week) |
 | [1733-maximum-number-of-visible-points](https://github.com/Sadanki/leetcode_2025/tree/master/1733-maximum-number-of-visible-points) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/Sadanki/leetcode_2025/tree/master/1844-maximum-number-of-balls-in-a-box) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/Sadanki/leetcode_2025/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1965-sum-of-digits-in-base-k](https://github.com/Sadanki/leetcode_2025/tree/master/1965-sum-of-digits-in-base-k) |
 | [2083-three-divisors](https://github.com/Sadanki/leetcode_2025/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Sadanki/leetcode_2025/tree/master/2106-find-greatest-common-divisor-of-array) |
