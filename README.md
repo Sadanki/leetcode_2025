@@ -95,6 +95,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [1721-maximum-profit-of-operating-a-centennial-wheel](https://github.com/Sadanki/leetcode_2025/tree/master/1721-maximum-profit-of-operating-a-centennial-wheel) |
 | [1726-coordinate-with-maximum-network-quality](https://github.com/Sadanki/leetcode_2025/tree/master/1726-coordinate-with-maximum-network-quality) |
 | [1733-maximum-number-of-visible-points](https://github.com/Sadanki/leetcode_2025/tree/master/1733-maximum-number-of-visible-points) |
+| [1755-defuse-the-bomb](https://github.com/Sadanki/leetcode_2025/tree/master/1755-defuse-the-bomb) |
 | [1769-get-maximum-in-generated-array](https://github.com/Sadanki/leetcode_2025/tree/master/1769-get-maximum-in-generated-array) |
 | [1843-number-of-rectangles-that-can-form-the-largest-square](https://github.com/Sadanki/leetcode_2025/tree/master/1843-number-of-rectangles-that-can-form-the-largest-square) |
 | [1888-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/Sadanki/leetcode_2025/tree/master/1888-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
@@ -485,6 +486,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0209-minimum-size-subarray-sum](https://github.com/Sadanki/leetcode_2025/tree/master/0209-minimum-size-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/Sadanki/leetcode_2025/tree/master/0567-permutation-in-string) |
 | [1733-maximum-number-of-visible-points](https://github.com/Sadanki/leetcode_2025/tree/master/1733-maximum-number-of-visible-points) |
+| [1755-defuse-the-bomb](https://github.com/Sadanki/leetcode_2025/tree/master/1755-defuse-the-bomb) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Sadanki/leetcode_2025/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Backtracking
 |  |
