@@ -119,6 +119,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Sadanki/leetcode_2025/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Sadanki/leetcode_2025/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Sadanki/leetcode_2025/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3897-count-number-of-trapezoids-ii](https://github.com/Sadanki/leetcode_2025/tree/master/3897-count-number-of-trapezoids-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -150,6 +151,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [2190-count-common-words-with-one-occurrence](https://github.com/Sadanki/leetcode_2025/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2226-rings-and-rods](https://github.com/Sadanki/leetcode_2025/tree/master/2226-rings-and-rods) |
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Sadanki/leetcode_2025/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3897-count-number-of-trapezoids-ii](https://github.com/Sadanki/leetcode_2025/tree/master/3897-count-number-of-trapezoids-ii) |
 ## String
 |  |
 | ------- |
@@ -437,6 +439,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [2206-detonate-the-maximum-bombs](https://github.com/Sadanki/leetcode_2025/tree/master/2206-detonate-the-maximum-bombs) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Sadanki/leetcode_2025/tree/master/2238-a-number-after-a-double-reversal) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Sadanki/leetcode_2025/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3897-count-number-of-trapezoids-ii](https://github.com/Sadanki/leetcode_2025/tree/master/3897-count-number-of-trapezoids-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -581,6 +584,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [1115-valid-boomerang](https://github.com/Sadanki/leetcode_2025/tree/master/1115-valid-boomerang) |
 | [1733-maximum-number-of-visible-points](https://github.com/Sadanki/leetcode_2025/tree/master/1733-maximum-number-of-visible-points) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Sadanki/leetcode_2025/tree/master/2206-detonate-the-maximum-bombs) |
+| [3897-count-number-of-trapezoids-ii](https://github.com/Sadanki/leetcode_2025/tree/master/3897-count-number-of-trapezoids-ii) |
 ## Doubly-Linked List
 |  |
 | ------- |
