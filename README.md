@@ -406,6 +406,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Sadanki/leetcode_2025/tree/master/0002-add-two-numbers) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Sadanki/leetcode_2025/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sadanki/leetcode_2025/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -414,6 +415,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Sadanki/leetcode_2025/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/Sadanki/leetcode_2025/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/Sadanki/leetcode_2025/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Sadanki/leetcode_2025/tree/master/0069-sqrtx) |
@@ -547,6 +549,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Sadanki/leetcode_2025/tree/master/0002-add-two-numbers) |
 | [0224-basic-calculator](https://github.com/Sadanki/leetcode_2025/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sadanki/leetcode_2025/tree/master/0241-different-ways-to-add-parentheses) |
 | [0930-all-possible-full-binary-trees](https://github.com/Sadanki/leetcode_2025/tree/master/0930-all-possible-full-binary-trees) |
