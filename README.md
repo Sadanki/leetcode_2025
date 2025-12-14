@@ -93,6 +93,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [1293-three-consecutive-odds](https://github.com/Sadanki/leetcode_2025/tree/master/1293-three-consecutive-odds) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Sadanki/leetcode_2025/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Sadanki/leetcode_2025/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sadanki/leetcode_2025/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Sadanki/leetcode_2025/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Sadanki/leetcode_2025/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1682-most-visited-sector-in-a-circular-track](https://github.com/Sadanki/leetcode_2025/tree/master/1682-most-visited-sector-in-a-circular-track) |
@@ -389,6 +390,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0542-01-matrix](https://github.com/Sadanki/leetcode_2025/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Sadanki/leetcode_2025/tree/master/0733-flood-fill) |
 | [0864-image-overlap](https://github.com/Sadanki/leetcode_2025/tree/master/0864-image-overlap) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sadanki/leetcode_2025/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Sadanki/leetcode_2025/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Binary Search
 |  |
@@ -412,6 +414,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Sadanki/leetcode_2025/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Sadanki/leetcode_2025/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1470-tweet-counts-per-frequency](https://github.com/Sadanki/leetcode_2025/tree/master/1470-tweet-counts-per-frequency) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sadanki/leetcode_2025/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Sadanki/leetcode_2025/tree/master/1486-find-the-distance-value-between-two-arrays) |
 ## Divide and Conquer
 |  |
