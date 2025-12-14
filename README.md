@@ -78,6 +78,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Sadanki/leetcode_2025/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Sadanki/leetcode_2025/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0733-flood-fill](https://github.com/Sadanki/leetcode_2025/tree/master/0733-flood-fill) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/Sadanki/leetcode_2025/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0749-shortest-completing-word](https://github.com/Sadanki/leetcode_2025/tree/master/0749-shortest-completing-word) |
 | [0792-binary-search](https://github.com/Sadanki/leetcode_2025/tree/master/0792-binary-search) |
 | [0805-escape-the-ghosts](https://github.com/Sadanki/leetcode_2025/tree/master/0805-escape-the-ghosts) |
@@ -399,6 +400,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0441-arranging-coins](https://github.com/Sadanki/leetcode_2025/tree/master/0441-arranging-coins) |
 | [0456-132-pattern](https://github.com/Sadanki/leetcode_2025/tree/master/0456-132-pattern) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sadanki/leetcode_2025/tree/master/0540-single-element-in-a-sorted-array) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/Sadanki/leetcode_2025/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Sadanki/leetcode_2025/tree/master/0792-binary-search) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Sadanki/leetcode_2025/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1470-tweet-counts-per-frequency](https://github.com/Sadanki/leetcode_2025/tree/master/1470-tweet-counts-per-frequency) |
