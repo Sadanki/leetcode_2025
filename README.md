@@ -92,6 +92,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Sadanki/leetcode_2025/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1293-three-consecutive-odds](https://github.com/Sadanki/leetcode_2025/tree/master/1293-three-consecutive-odds) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Sadanki/leetcode_2025/tree/master/1388-greatest-sum-divisible-by-three) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Sadanki/leetcode_2025/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Sadanki/leetcode_2025/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Sadanki/leetcode_2025/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1682-most-visited-sector-in-a-circular-track](https://github.com/Sadanki/leetcode_2025/tree/master/1682-most-visited-sector-in-a-circular-track) |
@@ -142,6 +143,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0778-reorganize-string](https://github.com/Sadanki/leetcode_2025/tree/master/0778-reorganize-string) |
 | [0782-jewels-and-stones](https://github.com/Sadanki/leetcode_2025/tree/master/0782-jewels-and-stones) |
 | [0924-fair-candy-swap](https://github.com/Sadanki/leetcode_2025/tree/master/0924-fair-candy-swap) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Sadanki/leetcode_2025/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1470-tweet-counts-per-frequency](https://github.com/Sadanki/leetcode_2025/tree/master/1470-tweet-counts-per-frequency) |
 | [1694-make-sum-divisible-by-p](https://github.com/Sadanki/leetcode_2025/tree/master/1694-make-sum-divisible-by-p) |
 | [1722-throne-inheritance](https://github.com/Sadanki/leetcode_2025/tree/master/1722-throne-inheritance) |
@@ -225,6 +227,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [1014-k-closest-points-to-origin](https://github.com/Sadanki/leetcode_2025/tree/master/1014-k-closest-points-to-origin) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Sadanki/leetcode_2025/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Sadanki/leetcode_2025/tree/master/1388-greatest-sum-divisible-by-three) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Sadanki/leetcode_2025/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1470-tweet-counts-per-frequency](https://github.com/Sadanki/leetcode_2025/tree/master/1470-tweet-counts-per-frequency) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Sadanki/leetcode_2025/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1733-maximum-number-of-visible-points](https://github.com/Sadanki/leetcode_2025/tree/master/1733-maximum-number-of-visible-points) |
@@ -407,6 +410,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0792-binary-search](https://github.com/Sadanki/leetcode_2025/tree/master/0792-binary-search) |
 | [0924-fair-candy-swap](https://github.com/Sadanki/leetcode_2025/tree/master/0924-fair-candy-swap) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Sadanki/leetcode_2025/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Sadanki/leetcode_2025/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1470-tweet-counts-per-frequency](https://github.com/Sadanki/leetcode_2025/tree/master/1470-tweet-counts-per-frequency) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Sadanki/leetcode_2025/tree/master/1486-find-the-distance-value-between-two-arrays) |
 ## Divide and Conquer
@@ -501,6 +505,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Sadanki/leetcode_2025/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sadanki/leetcode_2025/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1454-remove-palindromic-subsequences](https://github.com/Sadanki/leetcode_2025/tree/master/1454-remove-palindromic-subsequences) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Sadanki/leetcode_2025/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Sadanki/leetcode_2025/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Sadanki/leetcode_2025/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Sadanki/leetcode_2025/tree/master/2231-find-first-palindromic-string-in-the-array) |
