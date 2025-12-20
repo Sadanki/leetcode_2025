@@ -137,6 +137,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Sadanki/leetcode_2025/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3897-count-number-of-trapezoids-ii](https://github.com/Sadanki/leetcode_2025/tree/master/3897-count-number-of-trapezoids-ii) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sadanki/leetcode_2025/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
+| [4146-total-score-of-dungeon-runs](https://github.com/Sadanki/leetcode_2025/tree/master/4146-total-score-of-dungeon-runs) |
 ## Hash Table
 |  |
 | ------- |
@@ -448,6 +449,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Sadanki/leetcode_2025/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3790-fruits-into-baskets-ii](https://github.com/Sadanki/leetcode_2025/tree/master/3790-fruits-into-baskets-ii) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sadanki/leetcode_2025/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
+| [4146-total-score-of-dungeon-runs](https://github.com/Sadanki/leetcode_2025/tree/master/4146-total-score-of-dungeon-runs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -631,6 +633,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [2102-find-the-middle-index-in-array](https://github.com/Sadanki/leetcode_2025/tree/master/2102-find-the-middle-index-in-array) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Sadanki/leetcode_2025/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Sadanki/leetcode_2025/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
+| [4146-total-score-of-dungeon-runs](https://github.com/Sadanki/leetcode_2025/tree/master/4146-total-score-of-dungeon-runs) |
 ## Ordered Set
 |  |
 | ------- |
