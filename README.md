@@ -128,6 +128,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Sadanki/leetcode_2025/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sadanki/leetcode_2025/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2634-minimum-common-value](https://github.com/Sadanki/leetcode_2025/tree/master/2634-minimum-common-value) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Sadanki/leetcode_2025/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Sadanki/leetcode_2025/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Sadanki/leetcode_2025/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3897-count-number-of-trapezoids-ii](https://github.com/Sadanki/leetcode_2025/tree/master/3897-count-number-of-trapezoids-ii) |
@@ -242,6 +243,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Sadanki/leetcode_2025/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Sadanki/leetcode_2025/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Sadanki/leetcode_2025/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Sadanki/leetcode_2025/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Stack
 |  |
 | ------- |
@@ -430,6 +432,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Sadanki/leetcode_2025/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sadanki/leetcode_2025/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2634-minimum-common-value](https://github.com/Sadanki/leetcode_2025/tree/master/2634-minimum-common-value) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Sadanki/leetcode_2025/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -528,6 +531,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Sadanki/leetcode_2025/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Sadanki/leetcode_2025/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2634-minimum-common-value](https://github.com/Sadanki/leetcode_2025/tree/master/2634-minimum-common-value) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Sadanki/leetcode_2025/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Sliding Window
 |  |
 | ------- |
