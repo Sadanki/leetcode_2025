@@ -130,6 +130,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [2634-minimum-common-value](https://github.com/Sadanki/leetcode_2025/tree/master/2634-minimum-common-value) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Sadanki/leetcode_2025/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Sadanki/leetcode_2025/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3790-fruits-into-baskets-ii](https://github.com/Sadanki/leetcode_2025/tree/master/3790-fruits-into-baskets-ii) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Sadanki/leetcode_2025/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3897-count-number-of-trapezoids-ii](https://github.com/Sadanki/leetcode_2025/tree/master/3897-count-number-of-trapezoids-ii) |
 ## Hash Table
@@ -433,6 +434,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sadanki/leetcode_2025/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2634-minimum-common-value](https://github.com/Sadanki/leetcode_2025/tree/master/2634-minimum-common-value) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Sadanki/leetcode_2025/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3790-fruits-into-baskets-ii](https://github.com/Sadanki/leetcode_2025/tree/master/3790-fruits-into-baskets-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -502,6 +504,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [1769-get-maximum-in-generated-array](https://github.com/Sadanki/leetcode_2025/tree/master/1769-get-maximum-in-generated-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Sadanki/leetcode_2025/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Sadanki/leetcode_2025/tree/master/2195-time-needed-to-buy-tickets) |
+| [3790-fruits-into-baskets-ii](https://github.com/Sadanki/leetcode_2025/tree/master/3790-fruits-into-baskets-ii) |
 ## Counting
 |  |
 | ------- |
@@ -617,6 +620,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | ------- |
 | [0456-132-pattern](https://github.com/Sadanki/leetcode_2025/tree/master/0456-132-pattern) |
 | [1470-tweet-counts-per-frequency](https://github.com/Sadanki/leetcode_2025/tree/master/1470-tweet-counts-per-frequency) |
+| [3790-fruits-into-baskets-ii](https://github.com/Sadanki/leetcode_2025/tree/master/3790-fruits-into-baskets-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -675,4 +679,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Sadanki/leetcode_2025/tree/master/0374-guess-number-higher-or-lower) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/Sadanki/leetcode_2025/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
