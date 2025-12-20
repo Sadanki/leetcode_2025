@@ -385,6 +385,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0241-different-ways-to-add-parentheses](https://github.com/Sadanki/leetcode_2025/tree/master/0241-different-ways-to-add-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sadanki/leetcode_2025/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/Sadanki/leetcode_2025/tree/master/0337-house-robber-iii) |
+| [0338-counting-bits](https://github.com/Sadanki/leetcode_2025/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/Sadanki/leetcode_2025/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Sadanki/leetcode_2025/tree/master/0542-01-matrix) |
@@ -533,6 +534,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0067-add-binary](https://github.com/Sadanki/leetcode_2025/tree/master/0067-add-binary) |
 | [0222-count-complete-tree-nodes](https://github.com/Sadanki/leetcode_2025/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Sadanki/leetcode_2025/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/Sadanki/leetcode_2025/tree/master/0338-counting-bits) |
 | [0672-bulb-switcher-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0672-bulb-switcher-ii) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Sadanki/leetcode_2025/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [2159-two-out-of-three](https://github.com/Sadanki/leetcode_2025/tree/master/2159-two-out-of-three) |
