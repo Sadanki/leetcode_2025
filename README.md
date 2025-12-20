@@ -76,6 +76,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0475-heaters](https://github.com/Sadanki/leetcode_2025/tree/master/0475-heaters) |
 | [0495-teemo-attacking](https://github.com/Sadanki/leetcode_2025/tree/master/0495-teemo-attacking) |
 | [0518-coin-change-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0518-coin-change-ii) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Sadanki/leetcode_2025/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sadanki/leetcode_2025/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Sadanki/leetcode_2025/tree/master/0542-01-matrix) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Sadanki/leetcode_2025/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -152,6 +153,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0229-majority-element-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Sadanki/leetcode_2025/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Sadanki/leetcode_2025/tree/master/0347-top-k-frequent-elements) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Sadanki/leetcode_2025/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/Sadanki/leetcode_2025/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sadanki/leetcode_2025/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0749-shortest-completing-word](https://github.com/Sadanki/leetcode_2025/tree/master/0749-shortest-completing-word) |
@@ -239,6 +241,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0436-find-right-interval](https://github.com/Sadanki/leetcode_2025/tree/master/0436-find-right-interval) |
 | [0455-assign-cookies](https://github.com/Sadanki/leetcode_2025/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/Sadanki/leetcode_2025/tree/master/0475-heaters) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Sadanki/leetcode_2025/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Sadanki/leetcode_2025/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0778-reorganize-string](https://github.com/Sadanki/leetcode_2025/tree/master/0778-reorganize-string) |
 | [0924-fair-candy-swap](https://github.com/Sadanki/leetcode_2025/tree/master/0924-fair-candy-swap) |
@@ -434,6 +437,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0441-arranging-coins](https://github.com/Sadanki/leetcode_2025/tree/master/0441-arranging-coins) |
 | [0456-132-pattern](https://github.com/Sadanki/leetcode_2025/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/Sadanki/leetcode_2025/tree/master/0475-heaters) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Sadanki/leetcode_2025/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sadanki/leetcode_2025/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Sadanki/leetcode_2025/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Sadanki/leetcode_2025/tree/master/0792-binary-search) |
@@ -548,6 +552,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0455-assign-cookies](https://github.com/Sadanki/leetcode_2025/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/Sadanki/leetcode_2025/tree/master/0475-heaters) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Sadanki/leetcode_2025/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/Sadanki/leetcode_2025/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Sadanki/leetcode_2025/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sadanki/leetcode_2025/tree/master/0653-two-sum-iv-input-is-a-bst) |
