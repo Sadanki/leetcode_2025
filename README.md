@@ -455,6 +455,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0729-my-calendar-i](https://github.com/Sadanki/leetcode_2025/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0731-my-calendar-ii) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Sadanki/leetcode_2025/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0755-reach-a-number](https://github.com/Sadanki/leetcode_2025/tree/master/0755-reach-a-number) |
 | [0792-binary-search](https://github.com/Sadanki/leetcode_2025/tree/master/0792-binary-search) |
 | [0912-random-pick-with-weight](https://github.com/Sadanki/leetcode_2025/tree/master/0912-random-pick-with-weight) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/Sadanki/leetcode_2025/tree/master/0914-random-point-in-non-overlapping-rectangles) |
@@ -505,6 +506,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0412-fizz-buzz](https://github.com/Sadanki/leetcode_2025/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/Sadanki/leetcode_2025/tree/master/0441-arranging-coins) |
 | [0672-bulb-switcher-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0672-bulb-switcher-ii) |
+| [0755-reach-a-number](https://github.com/Sadanki/leetcode_2025/tree/master/0755-reach-a-number) |
 | [0805-escape-the-ghosts](https://github.com/Sadanki/leetcode_2025/tree/master/0805-escape-the-ghosts) |
 | [0912-random-pick-with-weight](https://github.com/Sadanki/leetcode_2025/tree/master/0912-random-pick-with-weight) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/Sadanki/leetcode_2025/tree/master/0914-random-point-in-non-overlapping-rectangles) |
