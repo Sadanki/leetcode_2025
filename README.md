@@ -125,6 +125,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [2206-detonate-the-maximum-bombs](https://github.com/Sadanki/leetcode_2025/tree/master/2206-detonate-the-maximum-bombs) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Sadanki/leetcode_2025/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Sadanki/leetcode_2025/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/Sadanki/leetcode_2025/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Sadanki/leetcode_2025/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Sadanki/leetcode_2025/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3897-count-number-of-trapezoids-ii](https://github.com/Sadanki/leetcode_2025/tree/master/3897-count-number-of-trapezoids-ii) |
@@ -237,6 +238,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [1733-maximum-number-of-visible-points](https://github.com/Sadanki/leetcode_2025/tree/master/1733-maximum-number-of-visible-points) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Sadanki/leetcode_2025/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Sadanki/leetcode_2025/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/Sadanki/leetcode_2025/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Stack
 |  |
 | ------- |
@@ -380,6 +382,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Sadanki/leetcode_2025/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2154-minimum-moves-to-convert-string](https://github.com/Sadanki/leetcode_2025/tree/master/2154-minimum-moves-to-convert-string) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/Sadanki/leetcode_2025/tree/master/2199-two-furthest-houses-with-different-colors) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/Sadanki/leetcode_2025/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Matrix
 |  |
 | ------- |
@@ -421,6 +424,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Sadanki/leetcode_2025/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1646-kth-missing-positive-number](https://github.com/Sadanki/leetcode_2025/tree/master/1646-kth-missing-positive-number) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Sadanki/leetcode_2025/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/Sadanki/leetcode_2025/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -595,6 +599,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0209-minimum-size-subarray-sum](https://github.com/Sadanki/leetcode_2025/tree/master/0209-minimum-size-subarray-sum) |
 | [1694-make-sum-divisible-by-p](https://github.com/Sadanki/leetcode_2025/tree/master/1694-make-sum-divisible-by-p) |
 | [2102-find-the-middle-index-in-array](https://github.com/Sadanki/leetcode_2025/tree/master/2102-find-the-middle-index-in-array) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/Sadanki/leetcode_2025/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Sadanki/leetcode_2025/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
 ## Ordered Set
 |  |
