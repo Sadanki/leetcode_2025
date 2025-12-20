@@ -1,0 +1,16 @@
+class Solution {
+    public int[] countBits(int n) {
+        int[] ans = new int[n + 1];
+        ans[0] = 0;
+        
+        for (int i = 1; i <= n; i++) {
+            if (i % 2 == 0) {
+                ans[i] = ans[i / 2];   // even case
+            } else {
+                ans[i] = ans[i - 1] + 1; // odd case
+            }
+        }
+        
+        return ans;
+    }
+}
