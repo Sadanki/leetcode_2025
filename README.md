@@ -133,6 +133,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [3790-fruits-into-baskets-ii](https://github.com/Sadanki/leetcode_2025/tree/master/3790-fruits-into-baskets-ii) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Sadanki/leetcode_2025/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3897-count-number-of-trapezoids-ii](https://github.com/Sadanki/leetcode_2025/tree/master/3897-count-number-of-trapezoids-ii) |
+| [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sadanki/leetcode_2025/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -245,6 +246,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Sadanki/leetcode_2025/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Sadanki/leetcode_2025/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Sadanki/leetcode_2025/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sadanki/leetcode_2025/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 ## Stack
 |  |
 | ------- |
@@ -389,6 +391,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [2154-minimum-moves-to-convert-string](https://github.com/Sadanki/leetcode_2025/tree/master/2154-minimum-moves-to-convert-string) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/Sadanki/leetcode_2025/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Sadanki/leetcode_2025/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sadanki/leetcode_2025/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 ## Matrix
 |  |
 | ------- |
@@ -435,6 +438,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [2634-minimum-common-value](https://github.com/Sadanki/leetcode_2025/tree/master/2634-minimum-common-value) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Sadanki/leetcode_2025/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3790-fruits-into-baskets-ii](https://github.com/Sadanki/leetcode_2025/tree/master/3790-fruits-into-baskets-ii) |
+| [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sadanki/leetcode_2025/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -535,6 +539,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Sadanki/leetcode_2025/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2634-minimum-common-value](https://github.com/Sadanki/leetcode_2025/tree/master/2634-minimum-common-value) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Sadanki/leetcode_2025/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sadanki/leetcode_2025/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 ## Sliding Window
 |  |
 | ------- |
