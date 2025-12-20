@@ -127,6 +127,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Sadanki/leetcode_2025/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Sadanki/leetcode_2025/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sadanki/leetcode_2025/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2634-minimum-common-value](https://github.com/Sadanki/leetcode_2025/tree/master/2634-minimum-common-value) |
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Sadanki/leetcode_2025/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Sadanki/leetcode_2025/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3897-count-number-of-trapezoids-ii](https://github.com/Sadanki/leetcode_2025/tree/master/3897-count-number-of-trapezoids-ii) |
@@ -163,6 +164,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [2186-count-vowel-substrings-of-a-string](https://github.com/Sadanki/leetcode_2025/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Sadanki/leetcode_2025/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2226-rings-and-rods](https://github.com/Sadanki/leetcode_2025/tree/master/2226-rings-and-rods) |
+| [2634-minimum-common-value](https://github.com/Sadanki/leetcode_2025/tree/master/2634-minimum-common-value) |
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Sadanki/leetcode_2025/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3897-count-number-of-trapezoids-ii](https://github.com/Sadanki/leetcode_2025/tree/master/3897-count-number-of-trapezoids-ii) |
 ## String
@@ -427,6 +429,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Sadanki/leetcode_2025/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Sadanki/leetcode_2025/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sadanki/leetcode_2025/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2634-minimum-common-value](https://github.com/Sadanki/leetcode_2025/tree/master/2634-minimum-common-value) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -524,6 +527,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Sadanki/leetcode_2025/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Sadanki/leetcode_2025/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Sadanki/leetcode_2025/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2634-minimum-common-value](https://github.com/Sadanki/leetcode_2025/tree/master/2634-minimum-common-value) |
 ## Sliding Window
 |  |
 | ------- |
