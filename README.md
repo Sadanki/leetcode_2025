@@ -96,6 +96,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0852-friends-of-appropriate-ages](https://github.com/Sadanki/leetcode_2025/tree/master/0852-friends-of-appropriate-ages) |
 | [0864-image-overlap](https://github.com/Sadanki/leetcode_2025/tree/master/0864-image-overlap) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Sadanki/leetcode_2025/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0907-koko-eating-bananas](https://github.com/Sadanki/leetcode_2025/tree/master/0907-koko-eating-bananas) |
 | [0912-random-pick-with-weight](https://github.com/Sadanki/leetcode_2025/tree/master/0912-random-pick-with-weight) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/Sadanki/leetcode_2025/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [0924-fair-candy-swap](https://github.com/Sadanki/leetcode_2025/tree/master/0924-fair-candy-swap) |
@@ -472,6 +473,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0808-number-of-matching-subsequences](https://github.com/Sadanki/leetcode_2025/tree/master/0808-number-of-matching-subsequences) |
 | [0852-friends-of-appropriate-ages](https://github.com/Sadanki/leetcode_2025/tree/master/0852-friends-of-appropriate-ages) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Sadanki/leetcode_2025/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0907-koko-eating-bananas](https://github.com/Sadanki/leetcode_2025/tree/master/0907-koko-eating-bananas) |
 | [0912-random-pick-with-weight](https://github.com/Sadanki/leetcode_2025/tree/master/0912-random-pick-with-weight) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/Sadanki/leetcode_2025/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [0924-fair-candy-swap](https://github.com/Sadanki/leetcode_2025/tree/master/0924-fair-candy-swap) |
