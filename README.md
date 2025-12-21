@@ -92,6 +92,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0792-binary-search](https://github.com/Sadanki/leetcode_2025/tree/master/0792-binary-search) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Sadanki/leetcode_2025/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0805-escape-the-ghosts](https://github.com/Sadanki/leetcode_2025/tree/master/0805-escape-the-ghosts) |
+| [0808-number-of-matching-subsequences](https://github.com/Sadanki/leetcode_2025/tree/master/0808-number-of-matching-subsequences) |
 | [0864-image-overlap](https://github.com/Sadanki/leetcode_2025/tree/master/0864-image-overlap) |
 | [0912-random-pick-with-weight](https://github.com/Sadanki/leetcode_2025/tree/master/0912-random-pick-with-weight) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/Sadanki/leetcode_2025/tree/master/0914-random-point-in-non-overlapping-rectangles) |
@@ -165,6 +166,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0749-shortest-completing-word](https://github.com/Sadanki/leetcode_2025/tree/master/0749-shortest-completing-word) |
 | [0778-reorganize-string](https://github.com/Sadanki/leetcode_2025/tree/master/0778-reorganize-string) |
 | [0782-jewels-and-stones](https://github.com/Sadanki/leetcode_2025/tree/master/0782-jewels-and-stones) |
+| [0808-number-of-matching-subsequences](https://github.com/Sadanki/leetcode_2025/tree/master/0808-number-of-matching-subsequences) |
 | [0924-fair-candy-swap](https://github.com/Sadanki/leetcode_2025/tree/master/0924-fair-candy-swap) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Sadanki/leetcode_2025/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1470-tweet-counts-per-frequency](https://github.com/Sadanki/leetcode_2025/tree/master/1470-tweet-counts-per-frequency) |
@@ -203,6 +205,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0749-shortest-completing-word](https://github.com/Sadanki/leetcode_2025/tree/master/0749-shortest-completing-word) |
 | [0778-reorganize-string](https://github.com/Sadanki/leetcode_2025/tree/master/0778-reorganize-string) |
 | [0782-jewels-and-stones](https://github.com/Sadanki/leetcode_2025/tree/master/0782-jewels-and-stones) |
+| [0808-number-of-matching-subsequences](https://github.com/Sadanki/leetcode_2025/tree/master/0808-number-of-matching-subsequences) |
 | [0981-delete-columns-to-make-sorted](https://github.com/Sadanki/leetcode_2025/tree/master/0981-delete-columns-to-make-sorted) |
 | [1260-day-of-the-year](https://github.com/Sadanki/leetcode_2025/tree/master/1260-day-of-the-year) |
 | [1274-number-of-days-between-two-dates](https://github.com/Sadanki/leetcode_2025/tree/master/1274-number-of-days-between-two-dates) |
@@ -253,6 +256,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0658-find-k-closest-elements](https://github.com/Sadanki/leetcode_2025/tree/master/0658-find-k-closest-elements) |
 | [0778-reorganize-string](https://github.com/Sadanki/leetcode_2025/tree/master/0778-reorganize-string) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Sadanki/leetcode_2025/tree/master/0802-k-th-smallest-prime-fraction) |
+| [0808-number-of-matching-subsequences](https://github.com/Sadanki/leetcode_2025/tree/master/0808-number-of-matching-subsequences) |
 | [0924-fair-candy-swap](https://github.com/Sadanki/leetcode_2025/tree/master/0924-fair-candy-swap) |
 | [1014-k-closest-points-to-origin](https://github.com/Sadanki/leetcode_2025/tree/master/1014-k-closest-points-to-origin) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Sadanki/leetcode_2025/tree/master/1210-mean-of-array-after-removing-some-elements) |
@@ -393,6 +397,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0542-01-matrix](https://github.com/Sadanki/leetcode_2025/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/Sadanki/leetcode_2025/tree/master/0678-valid-parenthesis-string) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Sadanki/leetcode_2025/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0808-number-of-matching-subsequences](https://github.com/Sadanki/leetcode_2025/tree/master/0808-number-of-matching-subsequences) |
 | [0930-all-possible-full-binary-trees](https://github.com/Sadanki/leetcode_2025/tree/master/0930-all-possible-full-binary-trees) |
 | [1013-fibonacci-number](https://github.com/Sadanki/leetcode_2025/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/Sadanki/leetcode_2025/tree/master/1025-minimum-cost-for-tickets) |
@@ -461,6 +466,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0755-reach-a-number](https://github.com/Sadanki/leetcode_2025/tree/master/0755-reach-a-number) |
 | [0792-binary-search](https://github.com/Sadanki/leetcode_2025/tree/master/0792-binary-search) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Sadanki/leetcode_2025/tree/master/0802-k-th-smallest-prime-fraction) |
+| [0808-number-of-matching-subsequences](https://github.com/Sadanki/leetcode_2025/tree/master/0808-number-of-matching-subsequences) |
 | [0912-random-pick-with-weight](https://github.com/Sadanki/leetcode_2025/tree/master/0912-random-pick-with-weight) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/Sadanki/leetcode_2025/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [0924-fair-candy-swap](https://github.com/Sadanki/leetcode_2025/tree/master/0924-fair-candy-swap) |
@@ -636,6 +642,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | ------- |
 | [0139-word-break](https://github.com/Sadanki/leetcode_2025/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0140-word-break-ii) |
+| [0808-number-of-matching-subsequences](https://github.com/Sadanki/leetcode_2025/tree/master/0808-number-of-matching-subsequences) |
 ## Graph
 |  |
 | ------- |
