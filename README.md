@@ -197,6 +197,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0049-group-anagrams](https://github.com/Sadanki/leetcode_2025/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Sadanki/leetcode_2025/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/Sadanki/leetcode_2025/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/Sadanki/leetcode_2025/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/Sadanki/leetcode_2025/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0140-word-break-ii) |
 | [0205-isomorphic-strings](https://github.com/Sadanki/leetcode_2025/tree/master/0205-isomorphic-strings) |
@@ -388,6 +389,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0064-minimum-path-sum](https://github.com/Sadanki/leetcode_2025/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Sadanki/leetcode_2025/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Sadanki/leetcode_2025/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/Sadanki/leetcode_2025/tree/master/0091-decode-ways) |
 | [0119-pascals-triangle-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Sadanki/leetcode_2025/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
