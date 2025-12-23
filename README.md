@@ -299,6 +299,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Sadanki/leetcode_2025/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Sadanki/leetcode_2025/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Sadanki/leetcode_2025/tree/master/0102-binary-tree-level-order-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Sadanki/leetcode_2025/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -345,6 +346,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Sadanki/leetcode_2025/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Sadanki/leetcode_2025/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Sadanki/leetcode_2025/tree/master/0102-binary-tree-level-order-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Sadanki/leetcode_2025/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -390,6 +392,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0070-climbing-stairs](https://github.com/Sadanki/leetcode_2025/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Sadanki/leetcode_2025/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Sadanki/leetcode_2025/tree/master/0091-decode-ways) |
+| [0096-unique-binary-search-trees](https://github.com/Sadanki/leetcode_2025/tree/master/0096-unique-binary-search-trees) |
 | [0119-pascals-triangle-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Sadanki/leetcode_2025/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -520,6 +523,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0067-add-binary](https://github.com/Sadanki/leetcode_2025/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Sadanki/leetcode_2025/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Sadanki/leetcode_2025/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/Sadanki/leetcode_2025/tree/master/0096-unique-binary-search-trees) |
 | [0224-basic-calculator](https://github.com/Sadanki/leetcode_2025/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sadanki/leetcode_2025/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/Sadanki/leetcode_2025/tree/master/0268-missing-number) |
@@ -709,6 +713,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Sadanki/leetcode_2025/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Sadanki/leetcode_2025/tree/master/0098-validate-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sadanki/leetcode_2025/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Eulerian Circuit
