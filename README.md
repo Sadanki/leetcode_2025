@@ -420,6 +420,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0337-house-robber-iii](https://github.com/Sadanki/leetcode_2025/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/Sadanki/leetcode_2025/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/Sadanki/leetcode_2025/tree/master/0343-integer-break) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Sadanki/leetcode_2025/tree/master/0357-count-numbers-with-unique-digits) |
 | [0416-partition-equal-subset-sum](https://github.com/Sadanki/leetcode_2025/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Sadanki/leetcode_2025/tree/master/0542-01-matrix) |
@@ -549,6 +550,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0279-perfect-squares](https://github.com/Sadanki/leetcode_2025/tree/master/0279-perfect-squares) |
 | [0313-super-ugly-number](https://github.com/Sadanki/leetcode_2025/tree/master/0313-super-ugly-number) |
 | [0343-integer-break](https://github.com/Sadanki/leetcode_2025/tree/master/0343-integer-break) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Sadanki/leetcode_2025/tree/master/0357-count-numbers-with-unique-digits) |
 | [0400-nth-digit](https://github.com/Sadanki/leetcode_2025/tree/master/0400-nth-digit) |
 | [0412-fizz-buzz](https://github.com/Sadanki/leetcode_2025/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/Sadanki/leetcode_2025/tree/master/0441-arranging-coins) |
@@ -650,6 +652,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0113-path-sum-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/Sadanki/leetcode_2025/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0140-word-break-ii) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Sadanki/leetcode_2025/tree/master/0357-count-numbers-with-unique-digits) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Sadanki/leetcode_2025/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Heap (Priority Queue)
 |  |
