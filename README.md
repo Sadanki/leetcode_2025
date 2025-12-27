@@ -431,6 +431,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0376-wiggle-subsequence](https://github.com/Sadanki/leetcode_2025/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/Sadanki/leetcode_2025/tree/master/0377-combination-sum-iv) |
 | [0396-rotate-function](https://github.com/Sadanki/leetcode_2025/tree/master/0396-rotate-function) |
+| [0397-integer-replacement](https://github.com/Sadanki/leetcode_2025/tree/master/0397-integer-replacement) |
 | [0416-partition-equal-subset-sum](https://github.com/Sadanki/leetcode_2025/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Sadanki/leetcode_2025/tree/master/0542-01-matrix) |
@@ -448,6 +449,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0055-jump-game](https://github.com/Sadanki/leetcode_2025/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0376-wiggle-subsequence](https://github.com/Sadanki/leetcode_2025/tree/master/0376-wiggle-subsequence) |
+| [0397-integer-replacement](https://github.com/Sadanki/leetcode_2025/tree/master/0397-integer-replacement) |
 | [0455-assign-cookies](https://github.com/Sadanki/leetcode_2025/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Sadanki/leetcode_2025/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/Sadanki/leetcode_2025/tree/master/0611-valid-triangle-number) |
@@ -597,6 +599,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0222-count-complete-tree-nodes](https://github.com/Sadanki/leetcode_2025/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Sadanki/leetcode_2025/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Sadanki/leetcode_2025/tree/master/0338-counting-bits) |
+| [0397-integer-replacement](https://github.com/Sadanki/leetcode_2025/tree/master/0397-integer-replacement) |
 | [0672-bulb-switcher-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0672-bulb-switcher-ii) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Sadanki/leetcode_2025/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [2159-two-out-of-three](https://github.com/Sadanki/leetcode_2025/tree/master/2159-two-out-of-three) |
@@ -691,6 +694,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0140-word-break-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0140-word-break-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sadanki/leetcode_2025/tree/master/0241-different-ways-to-add-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sadanki/leetcode_2025/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0397-integer-replacement](https://github.com/Sadanki/leetcode_2025/tree/master/0397-integer-replacement) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Sadanki/leetcode_2025/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0930-all-possible-full-binary-trees](https://github.com/Sadanki/leetcode_2025/tree/master/0930-all-possible-full-binary-trees) |
 | [1013-fibonacci-number](https://github.com/Sadanki/leetcode_2025/tree/master/1013-fibonacci-number) |
