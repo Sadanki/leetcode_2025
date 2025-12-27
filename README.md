@@ -163,6 +163,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0140-word-break-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0140-word-break-ii) |
 | [0205-isomorphic-strings](https://github.com/Sadanki/leetcode_2025/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0229-majority-element-ii) |
+| [0264-ugly-number-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Sadanki/leetcode_2025/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Sadanki/leetcode_2025/tree/master/0347-top-k-frequent-elements) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Sadanki/leetcode_2025/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -408,6 +409,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0213-house-robber-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/Sadanki/leetcode_2025/tree/master/0221-maximal-square) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sadanki/leetcode_2025/tree/master/0241-different-ways-to-add-parentheses) |
+| [0264-ugly-number-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0264-ugly-number-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sadanki/leetcode_2025/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/Sadanki/leetcode_2025/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/Sadanki/leetcode_2025/tree/master/0338-counting-bits) |
@@ -535,6 +537,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0096-unique-binary-search-trees](https://github.com/Sadanki/leetcode_2025/tree/master/0096-unique-binary-search-trees) |
 | [0224-basic-calculator](https://github.com/Sadanki/leetcode_2025/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sadanki/leetcode_2025/tree/master/0241-different-ways-to-add-parentheses) |
+| [0264-ugly-number-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Sadanki/leetcode_2025/tree/master/0268-missing-number) |
 | [0400-nth-digit](https://github.com/Sadanki/leetcode_2025/tree/master/0400-nth-digit) |
 | [0412-fizz-buzz](https://github.com/Sadanki/leetcode_2025/tree/master/0412-fizz-buzz) |
@@ -642,6 +645,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sadanki/leetcode_2025/tree/master/0215-kth-largest-element-in-an-array) |
+| [0264-ugly-number-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Sadanki/leetcode_2025/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sadanki/leetcode_2025/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/Sadanki/leetcode_2025/tree/master/0658-find-k-closest-elements) |
