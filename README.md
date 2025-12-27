@@ -375,6 +375,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0102-binary-tree-level-order-traversal](https://github.com/Sadanki/leetcode_2025/tree/master/0102-binary-tree-level-order-traversal) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Sadanki/leetcode_2025/tree/master/0199-binary-tree-right-side-view) |
+| [0279-perfect-squares](https://github.com/Sadanki/leetcode_2025/tree/master/0279-perfect-squares) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sadanki/leetcode_2025/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0463-island-perimeter](https://github.com/Sadanki/leetcode_2025/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/Sadanki/leetcode_2025/tree/master/0542-01-matrix) |
@@ -410,6 +411,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0221-maximal-square](https://github.com/Sadanki/leetcode_2025/tree/master/0221-maximal-square) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sadanki/leetcode_2025/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/Sadanki/leetcode_2025/tree/master/0279-perfect-squares) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sadanki/leetcode_2025/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/Sadanki/leetcode_2025/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/Sadanki/leetcode_2025/tree/master/0338-counting-bits) |
@@ -539,6 +541,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0241-different-ways-to-add-parentheses](https://github.com/Sadanki/leetcode_2025/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Sadanki/leetcode_2025/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/Sadanki/leetcode_2025/tree/master/0279-perfect-squares) |
 | [0400-nth-digit](https://github.com/Sadanki/leetcode_2025/tree/master/0400-nth-digit) |
 | [0412-fizz-buzz](https://github.com/Sadanki/leetcode_2025/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/Sadanki/leetcode_2025/tree/master/0441-arranging-coins) |
