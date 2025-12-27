@@ -424,6 +424,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0343-integer-break](https://github.com/Sadanki/leetcode_2025/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Sadanki/leetcode_2025/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/Sadanki/leetcode_2025/tree/master/0368-largest-divisible-subset) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Sadanki/leetcode_2025/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Sadanki/leetcode_2025/tree/master/0542-01-matrix) |
@@ -555,6 +556,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0343-integer-break](https://github.com/Sadanki/leetcode_2025/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Sadanki/leetcode_2025/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/Sadanki/leetcode_2025/tree/master/0368-largest-divisible-subset) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0400-nth-digit](https://github.com/Sadanki/leetcode_2025/tree/master/0400-nth-digit) |
 | [0412-fizz-buzz](https://github.com/Sadanki/leetcode_2025/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/Sadanki/leetcode_2025/tree/master/0441-arranging-coins) |
@@ -815,4 +817,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | ------- |
 | [0912-random-pick-with-weight](https://github.com/Sadanki/leetcode_2025/tree/master/0912-random-pick-with-weight) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/Sadanki/leetcode_2025/tree/master/0914-random-point-in-non-overlapping-rectangles) |
+## Game Theory
+|  |
+| ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0375-guess-number-higher-or-lower-ii) |
 <!---LeetCode Topics End-->
