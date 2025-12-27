@@ -68,6 +68,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0268-missing-number](https://github.com/Sadanki/leetcode_2025/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0275-h-index-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Sadanki/leetcode_2025/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0313-super-ugly-number](https://github.com/Sadanki/leetcode_2025/tree/master/0313-super-ugly-number) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sadanki/leetcode_2025/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/Sadanki/leetcode_2025/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sadanki/leetcode_2025/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -414,6 +415,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0264-ugly-number-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/Sadanki/leetcode_2025/tree/master/0279-perfect-squares) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Sadanki/leetcode_2025/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0313-super-ugly-number](https://github.com/Sadanki/leetcode_2025/tree/master/0313-super-ugly-number) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sadanki/leetcode_2025/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/Sadanki/leetcode_2025/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/Sadanki/leetcode_2025/tree/master/0338-counting-bits) |
@@ -544,6 +546,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0264-ugly-number-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Sadanki/leetcode_2025/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/Sadanki/leetcode_2025/tree/master/0279-perfect-squares) |
+| [0313-super-ugly-number](https://github.com/Sadanki/leetcode_2025/tree/master/0313-super-ugly-number) |
 | [0400-nth-digit](https://github.com/Sadanki/leetcode_2025/tree/master/0400-nth-digit) |
 | [0412-fizz-buzz](https://github.com/Sadanki/leetcode_2025/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/Sadanki/leetcode_2025/tree/master/0441-arranging-coins) |
