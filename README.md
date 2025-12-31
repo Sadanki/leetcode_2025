@@ -50,6 +50,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0055-jump-game](https://github.com/Sadanki/leetcode_2025/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Sadanki/leetcode_2025/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/Sadanki/leetcode_2025/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Sadanki/leetcode_2025/tree/master/0075-sort-colors) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Sadanki/leetcode_2025/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0119-pascals-triangle-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0119-pascals-triangle-ii) |
@@ -552,6 +553,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sadanki/leetcode_2025/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/Sadanki/leetcode_2025/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/Sadanki/leetcode_2025/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Sadanki/leetcode_2025/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Sadanki/leetcode_2025/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Sadanki/leetcode_2025/tree/master/0070-climbing-stairs) |
