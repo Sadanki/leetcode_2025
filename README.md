@@ -67,6 +67,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0217-contains-duplicate](https://github.com/Sadanki/leetcode_2025/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0219-contains-duplicate-ii) |
 | [0221-maximal-square](https://github.com/Sadanki/leetcode_2025/tree/master/0221-maximal-square) |
+| [0228-summary-ranges](https://github.com/Sadanki/leetcode_2025/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Sadanki/leetcode_2025/tree/master/0268-missing-number) |
