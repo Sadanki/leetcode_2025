@@ -93,6 +93,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0532-k-diff-pairs-in-an-array](https://github.com/Sadanki/leetcode_2025/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sadanki/leetcode_2025/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Sadanki/leetcode_2025/tree/master/0542-01-matrix) |
+| [0561-array-partition](https://github.com/Sadanki/leetcode_2025/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Sadanki/leetcode_2025/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/Sadanki/leetcode_2025/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/Sadanki/leetcode_2025/tree/master/0658-find-k-closest-elements) |
@@ -279,6 +280,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0455-assign-cookies](https://github.com/Sadanki/leetcode_2025/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/Sadanki/leetcode_2025/tree/master/0475-heaters) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Sadanki/leetcode_2025/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0561-array-partition](https://github.com/Sadanki/leetcode_2025/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Sadanki/leetcode_2025/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/Sadanki/leetcode_2025/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/Sadanki/leetcode_2025/tree/master/0658-find-k-closest-elements) |
@@ -464,6 +466,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0376-wiggle-subsequence](https://github.com/Sadanki/leetcode_2025/tree/master/0376-wiggle-subsequence) |
 | [0397-integer-replacement](https://github.com/Sadanki/leetcode_2025/tree/master/0397-integer-replacement) |
 | [0455-assign-cookies](https://github.com/Sadanki/leetcode_2025/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/Sadanki/leetcode_2025/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Sadanki/leetcode_2025/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/Sadanki/leetcode_2025/tree/master/0611-valid-triangle-number) |
 | [0678-valid-parenthesis-string](https://github.com/Sadanki/leetcode_2025/tree/master/0678-valid-parenthesis-string) |
@@ -817,6 +820,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/Sadanki/leetcode_2025/tree/master/0561-array-partition) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Sadanki/leetcode_2025/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Number Theory
 |  |
