@@ -53,6 +53,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0066-plus-one](https://github.com/Sadanki/leetcode_2025/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Sadanki/leetcode_2025/tree/master/0075-sort-colors) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Sadanki/leetcode_2025/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sadanki/leetcode_2025/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Sadanki/leetcode_2025/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -316,6 +317,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0098-validate-binary-search-tree](https://github.com/Sadanki/leetcode_2025/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Sadanki/leetcode_2025/tree/master/0102-binary-tree-level-order-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Sadanki/leetcode_2025/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sadanki/leetcode_2025/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sadanki/leetcode_2025/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
@@ -363,6 +365,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0098-validate-binary-search-tree](https://github.com/Sadanki/leetcode_2025/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Sadanki/leetcode_2025/tree/master/0102-binary-tree-level-order-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Sadanki/leetcode_2025/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sadanki/leetcode_2025/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sadanki/leetcode_2025/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
@@ -535,6 +538,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Sadanki/leetcode_2025/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sadanki/leetcode_2025/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sadanki/leetcode_2025/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Sadanki/leetcode_2025/tree/master/0347-top-k-frequent-elements) |
@@ -762,6 +766,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Sadanki/leetcode_2025/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Sadanki/leetcode_2025/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sadanki/leetcode_2025/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sadanki/leetcode_2025/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Eulerian Circuit
 |  |
