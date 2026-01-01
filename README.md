@@ -349,6 +349,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sadanki/leetcode_2025/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0655-print-binary-tree](https://github.com/Sadanki/leetcode_2025/tree/master/0655-print-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Sadanki/leetcode_2025/tree/master/0662-maximum-width-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Sadanki/leetcode_2025/tree/master/0783-search-in-a-binary-search-tree) |
 | [0930-all-possible-full-binary-trees](https://github.com/Sadanki/leetcode_2025/tree/master/0930-all-possible-full-binary-trees) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/Sadanki/leetcode_2025/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1722-throne-inheritance](https://github.com/Sadanki/leetcode_2025/tree/master/1722-throne-inheritance) |
@@ -401,6 +402,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sadanki/leetcode_2025/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0655-print-binary-tree](https://github.com/Sadanki/leetcode_2025/tree/master/0655-print-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Sadanki/leetcode_2025/tree/master/0662-maximum-width-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Sadanki/leetcode_2025/tree/master/0783-search-in-a-binary-search-tree) |
 | [0930-all-possible-full-binary-trees](https://github.com/Sadanki/leetcode_2025/tree/master/0930-all-possible-full-binary-trees) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/Sadanki/leetcode_2025/tree/master/1021-distribute-coins-in-binary-tree) |
 ## Breadth-First Search
@@ -802,6 +804,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0501-find-mode-in-binary-search-tree](https://github.com/Sadanki/leetcode_2025/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Sadanki/leetcode_2025/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sadanki/leetcode_2025/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Sadanki/leetcode_2025/tree/master/0783-search-in-a-binary-search-tree) |
 ## Eulerian Circuit
 |  |
 | ------- |
