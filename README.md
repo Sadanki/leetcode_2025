@@ -95,6 +95,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0540-single-element-in-a-sorted-array](https://github.com/Sadanki/leetcode_2025/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Sadanki/leetcode_2025/tree/master/0542-01-matrix) |
 | [0561-array-partition](https://github.com/Sadanki/leetcode_2025/tree/master/0561-array-partition) |
+| [0566-reshape-the-matrix](https://github.com/Sadanki/leetcode_2025/tree/master/0566-reshape-the-matrix) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Sadanki/leetcode_2025/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/Sadanki/leetcode_2025/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/Sadanki/leetcode_2025/tree/master/0658-find-k-closest-elements) |
@@ -492,6 +493,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sadanki/leetcode_2025/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0463-island-perimeter](https://github.com/Sadanki/leetcode_2025/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/Sadanki/leetcode_2025/tree/master/0542-01-matrix) |
+| [0566-reshape-the-matrix](https://github.com/Sadanki/leetcode_2025/tree/master/0566-reshape-the-matrix) |
 | [0733-flood-fill](https://github.com/Sadanki/leetcode_2025/tree/master/0733-flood-fill) |
 | [0864-image-overlap](https://github.com/Sadanki/leetcode_2025/tree/master/0864-image-overlap) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sadanki/leetcode_2025/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -629,6 +631,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0067-add-binary](https://github.com/Sadanki/leetcode_2025/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Sadanki/leetcode_2025/tree/master/0412-fizz-buzz) |
 | [0495-teemo-attacking](https://github.com/Sadanki/leetcode_2025/tree/master/0495-teemo-attacking) |
+| [0566-reshape-the-matrix](https://github.com/Sadanki/leetcode_2025/tree/master/0566-reshape-the-matrix) |
 | [1682-most-visited-sector-in-a-circular-track](https://github.com/Sadanki/leetcode_2025/tree/master/1682-most-visited-sector-in-a-circular-track) |
 | [1721-maximum-profit-of-operating-a-centennial-wheel](https://github.com/Sadanki/leetcode_2025/tree/master/1721-maximum-profit-of-operating-a-centennial-wheel) |
 | [1769-get-maximum-in-generated-array](https://github.com/Sadanki/leetcode_2025/tree/master/1769-get-maximum-in-generated-array) |
