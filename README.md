@@ -97,6 +97,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0561-array-partition](https://github.com/Sadanki/leetcode_2025/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/Sadanki/leetcode_2025/tree/master/0566-reshape-the-matrix) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Sadanki/leetcode_2025/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0594-longest-harmonious-subsequence](https://github.com/Sadanki/leetcode_2025/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Sadanki/leetcode_2025/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/Sadanki/leetcode_2025/tree/master/0658-find-k-closest-elements) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Sadanki/leetcode_2025/tree/master/0698-partition-to-k-equal-sum-subsets) |
@@ -186,6 +187,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0500-keyboard-row](https://github.com/Sadanki/leetcode_2025/tree/master/0500-keyboard-row) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Sadanki/leetcode_2025/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/Sadanki/leetcode_2025/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/Sadanki/leetcode_2025/tree/master/0594-longest-harmonious-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sadanki/leetcode_2025/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0749-shortest-completing-word](https://github.com/Sadanki/leetcode_2025/tree/master/0749-shortest-completing-word) |
 | [0778-reorganize-string](https://github.com/Sadanki/leetcode_2025/tree/master/0778-reorganize-string) |
@@ -284,6 +286,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0532-k-diff-pairs-in-an-array](https://github.com/Sadanki/leetcode_2025/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0561-array-partition](https://github.com/Sadanki/leetcode_2025/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Sadanki/leetcode_2025/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0594-longest-harmonious-subsequence](https://github.com/Sadanki/leetcode_2025/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Sadanki/leetcode_2025/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/Sadanki/leetcode_2025/tree/master/0658-find-k-closest-elements) |
 | [0778-reorganize-string](https://github.com/Sadanki/leetcode_2025/tree/master/0778-reorganize-string) |
@@ -643,6 +646,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | ------- |
 | [0229-majority-element-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Sadanki/leetcode_2025/tree/master/0347-top-k-frequent-elements) |
+| [0594-longest-harmonious-subsequence](https://github.com/Sadanki/leetcode_2025/tree/master/0594-longest-harmonious-subsequence) |
 | [0778-reorganize-string](https://github.com/Sadanki/leetcode_2025/tree/master/0778-reorganize-string) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/Sadanki/leetcode_2025/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Sadanki/leetcode_2025/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -681,6 +685,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0209-minimum-size-subarray-sum](https://github.com/Sadanki/leetcode_2025/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/Sadanki/leetcode_2025/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/Sadanki/leetcode_2025/tree/master/0594-longest-harmonious-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/Sadanki/leetcode_2025/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/Sadanki/leetcode_2025/tree/master/0713-subarray-product-less-than-k) |
 | [1733-maximum-number-of-visible-points](https://github.com/Sadanki/leetcode_2025/tree/master/1733-maximum-number-of-visible-points) |
