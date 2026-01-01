@@ -98,6 +98,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0566-reshape-the-matrix](https://github.com/Sadanki/leetcode_2025/tree/master/0566-reshape-the-matrix) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Sadanki/leetcode_2025/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sadanki/leetcode_2025/tree/master/0594-longest-harmonious-subsequence) |
+| [0598-range-addition-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0598-range-addition-ii) |
 | [0611-valid-triangle-number](https://github.com/Sadanki/leetcode_2025/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/Sadanki/leetcode_2025/tree/master/0658-find-k-closest-elements) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Sadanki/leetcode_2025/tree/master/0698-partition-to-k-equal-sum-subsets) |
@@ -594,6 +595,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0400-nth-digit](https://github.com/Sadanki/leetcode_2025/tree/master/0400-nth-digit) |
 | [0412-fizz-buzz](https://github.com/Sadanki/leetcode_2025/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/Sadanki/leetcode_2025/tree/master/0441-arranging-coins) |
+| [0598-range-addition-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0598-range-addition-ii) |
 | [0672-bulb-switcher-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0672-bulb-switcher-ii) |
 | [0755-reach-a-number](https://github.com/Sadanki/leetcode_2025/tree/master/0755-reach-a-number) |
 | [0805-escape-the-ghosts](https://github.com/Sadanki/leetcode_2025/tree/master/0805-escape-the-ghosts) |
