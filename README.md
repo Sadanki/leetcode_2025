@@ -352,6 +352,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0662-maximum-width-of-binary-tree](https://github.com/Sadanki/leetcode_2025/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Sadanki/leetcode_2025/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sadanki/leetcode_2025/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/Sadanki/leetcode_2025/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0930-all-possible-full-binary-trees](https://github.com/Sadanki/leetcode_2025/tree/master/0930-all-possible-full-binary-trees) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/Sadanki/leetcode_2025/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1722-throne-inheritance](https://github.com/Sadanki/leetcode_2025/tree/master/1722-throne-inheritance) |
@@ -379,6 +380,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0733-flood-fill](https://github.com/Sadanki/leetcode_2025/tree/master/0733-flood-fill) |
 | [0754-cracking-the-safe](https://github.com/Sadanki/leetcode_2025/tree/master/0754-cracking-the-safe) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Sadanki/leetcode_2025/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/Sadanki/leetcode_2025/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/Sadanki/leetcode_2025/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1722-throne-inheritance](https://github.com/Sadanki/leetcode_2025/tree/master/1722-throne-inheritance) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Sadanki/leetcode_2025/tree/master/2206-detonate-the-maximum-bombs) |
@@ -406,6 +408,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0662-maximum-width-of-binary-tree](https://github.com/Sadanki/leetcode_2025/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Sadanki/leetcode_2025/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sadanki/leetcode_2025/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/Sadanki/leetcode_2025/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0930-all-possible-full-binary-trees](https://github.com/Sadanki/leetcode_2025/tree/master/0930-all-possible-full-binary-trees) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/Sadanki/leetcode_2025/tree/master/1021-distribute-coins-in-binary-tree) |
 ## Breadth-First Search
@@ -425,6 +428,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0672-bulb-switcher-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0672-bulb-switcher-ii) |
 | [0684-redundant-connection](https://github.com/Sadanki/leetcode_2025/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/Sadanki/leetcode_2025/tree/master/0733-flood-fill) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/Sadanki/leetcode_2025/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Sadanki/leetcode_2025/tree/master/2206-detonate-the-maximum-bombs) |
 ## Dynamic Programming
 |  |
@@ -810,6 +814,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sadanki/leetcode_2025/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Sadanki/leetcode_2025/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sadanki/leetcode_2025/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/Sadanki/leetcode_2025/tree/master/0799-minimum-distance-between-bst-nodes) |
 ## Eulerian Circuit
 |  |
 | ------- |
