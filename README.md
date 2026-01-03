@@ -224,6 +224,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0072-edit-distance](https://github.com/Sadanki/leetcode_2025/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Sadanki/leetcode_2025/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/Sadanki/leetcode_2025/tree/master/0097-interleaving-string) |
+| [0125-valid-palindrome](https://github.com/Sadanki/leetcode_2025/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Sadanki/leetcode_2025/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Sadanki/leetcode_2025/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0140-word-break-ii) |
@@ -684,6 +685,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sadanki/leetcode_2025/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Sadanki/leetcode_2025/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0125-valid-palindrome](https://github.com/Sadanki/leetcode_2025/tree/master/0125-valid-palindrome) |
 | [0455-assign-cookies](https://github.com/Sadanki/leetcode_2025/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/Sadanki/leetcode_2025/tree/master/0475-heaters) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Sadanki/leetcode_2025/tree/master/0532-k-diff-pairs-in-an-array) |
