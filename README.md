@@ -232,6 +232,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0205-isomorphic-strings](https://github.com/Sadanki/leetcode_2025/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/Sadanki/leetcode_2025/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sadanki/leetcode_2025/tree/master/0241-different-ways-to-add-parentheses) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Sadanki/leetcode_2025/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/Sadanki/leetcode_2025/tree/master/0412-fizz-buzz) |
 | [0500-keyboard-row](https://github.com/Sadanki/leetcode_2025/tree/master/0500-keyboard-row) |
 | [0551-student-attendance-record-i](https://github.com/Sadanki/leetcode_2025/tree/master/0551-student-attendance-record-i) |
@@ -689,6 +690,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0125-valid-palindrome](https://github.com/Sadanki/leetcode_2025/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/Sadanki/leetcode_2025/tree/master/0202-happy-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Sadanki/leetcode_2025/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/Sadanki/leetcode_2025/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/Sadanki/leetcode_2025/tree/master/0475-heaters) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Sadanki/leetcode_2025/tree/master/0532-k-diff-pairs-in-an-array) |
