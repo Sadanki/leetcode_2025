@@ -115,6 +115,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0852-friends-of-appropriate-ages](https://github.com/Sadanki/leetcode_2025/tree/master/0852-friends-of-appropriate-ages) |
 | [0864-image-overlap](https://github.com/Sadanki/leetcode_2025/tree/master/0864-image-overlap) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Sadanki/leetcode_2025/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0890-lemonade-change](https://github.com/Sadanki/leetcode_2025/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/Sadanki/leetcode_2025/tree/master/0907-koko-eating-bananas) |
 | [0912-random-pick-with-weight](https://github.com/Sadanki/leetcode_2025/tree/master/0912-random-pick-with-weight) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/Sadanki/leetcode_2025/tree/master/0914-random-point-in-non-overlapping-rectangles) |
@@ -505,6 +506,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0678-valid-parenthesis-string](https://github.com/Sadanki/leetcode_2025/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0680-valid-palindrome-ii) |
 | [0778-reorganize-string](https://github.com/Sadanki/leetcode_2025/tree/master/0778-reorganize-string) |
+| [0890-lemonade-change](https://github.com/Sadanki/leetcode_2025/tree/master/0890-lemonade-change) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Sadanki/leetcode_2025/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/Sadanki/leetcode_2025/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/Sadanki/leetcode_2025/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
