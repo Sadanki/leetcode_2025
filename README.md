@@ -382,6 +382,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [1005-univalued-binary-tree](https://github.com/Sadanki/leetcode_2025/tree/master/1005-univalued-binary-tree) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/Sadanki/leetcode_2025/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Sadanki/leetcode_2025/tree/master/1035-cousins-in-binary-tree) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Sadanki/leetcode_2025/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1722-throne-inheritance](https://github.com/Sadanki/leetcode_2025/tree/master/1722-throne-inheritance) |
 ## Depth-First Search
 |  |
@@ -422,6 +423,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [1005-univalued-binary-tree](https://github.com/Sadanki/leetcode_2025/tree/master/1005-univalued-binary-tree) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/Sadanki/leetcode_2025/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Sadanki/leetcode_2025/tree/master/1035-cousins-in-binary-tree) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Sadanki/leetcode_2025/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1722-throne-inheritance](https://github.com/Sadanki/leetcode_2025/tree/master/1722-throne-inheritance) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Sadanki/leetcode_2025/tree/master/2206-detonate-the-maximum-bombs) |
 ## Binary Tree
@@ -461,6 +463,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [1005-univalued-binary-tree](https://github.com/Sadanki/leetcode_2025/tree/master/1005-univalued-binary-tree) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/Sadanki/leetcode_2025/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Sadanki/leetcode_2025/tree/master/1035-cousins-in-binary-tree) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Sadanki/leetcode_2025/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 ## Breadth-First Search
 |  |
 | ------- |
