@@ -366,6 +366,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0199-binary-tree-right-side-view](https://github.com/Sadanki/leetcode_2025/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Sadanki/leetcode_2025/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Sadanki/leetcode_2025/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sadanki/leetcode_2025/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sadanki/leetcode_2025/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Sadanki/leetcode_2025/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/Sadanki/leetcode_2025/tree/master/0337-house-robber-iii) |
@@ -409,6 +410,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0129-sum-root-to-leaf-numbers](https://github.com/Sadanki/leetcode_2025/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/Sadanki/leetcode_2025/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Sadanki/leetcode_2025/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sadanki/leetcode_2025/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sadanki/leetcode_2025/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Sadanki/leetcode_2025/tree/master/0257-binary-tree-paths) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sadanki/leetcode_2025/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -464,6 +466,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0199-binary-tree-right-side-view](https://github.com/Sadanki/leetcode_2025/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Sadanki/leetcode_2025/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Sadanki/leetcode_2025/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sadanki/leetcode_2025/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sadanki/leetcode_2025/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Sadanki/leetcode_2025/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/Sadanki/leetcode_2025/tree/master/0337-house-robber-iii) |
@@ -916,6 +919,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sadanki/leetcode_2025/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/Sadanki/leetcode_2025/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Sadanki/leetcode_2025/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sadanki/leetcode_2025/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Sadanki/leetcode_2025/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Sadanki/leetcode_2025/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sadanki/leetcode_2025/tree/master/0653-two-sum-iv-input-is-a-bst) |
