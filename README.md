@@ -328,6 +328,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0032-longest-valid-parentheses](https://github.com/Sadanki/leetcode_2025/tree/master/0032-longest-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sadanki/leetcode_2025/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0155-min-stack](https://github.com/Sadanki/leetcode_2025/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/Sadanki/leetcode_2025/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/Sadanki/leetcode_2025/tree/master/0224-basic-calculator) |
 | [0456-132-pattern](https://github.com/Sadanki/leetcode_2025/tree/master/0456-132-pattern) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Sadanki/leetcode_2025/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -339,6 +340,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Sadanki/leetcode_2025/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/Sadanki/leetcode_2025/tree/master/0173-binary-search-tree-iterator) |
 | [0729-my-calendar-i](https://github.com/Sadanki/leetcode_2025/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sadanki/leetcode_2025/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -360,6 +362,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Sadanki/leetcode_2025/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Sadanki/leetcode_2025/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0173-binary-search-tree-iterator](https://github.com/Sadanki/leetcode_2025/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/Sadanki/leetcode_2025/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Sadanki/leetcode_2025/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sadanki/leetcode_2025/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -455,6 +458,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Sadanki/leetcode_2025/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Sadanki/leetcode_2025/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0173-binary-search-tree-iterator](https://github.com/Sadanki/leetcode_2025/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/Sadanki/leetcode_2025/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Sadanki/leetcode_2025/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sadanki/leetcode_2025/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -907,6 +911,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0096-unique-binary-search-trees](https://github.com/Sadanki/leetcode_2025/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Sadanki/leetcode_2025/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sadanki/leetcode_2025/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/Sadanki/leetcode_2025/tree/master/0173-binary-search-tree-iterator) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Sadanki/leetcode_2025/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Sadanki/leetcode_2025/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sadanki/leetcode_2025/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -995,4 +1000,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sadanki/leetcode_2025/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Sadanki/leetcode_2025/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
