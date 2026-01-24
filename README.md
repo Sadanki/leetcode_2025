@@ -376,6 +376,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0783-search-in-a-binary-search-tree](https://github.com/Sadanki/leetcode_2025/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sadanki/leetcode_2025/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Sadanki/leetcode_2025/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0904-leaf-similar-trees](https://github.com/Sadanki/leetcode_2025/tree/master/0904-leaf-similar-trees) |
 | [0930-all-possible-full-binary-trees](https://github.com/Sadanki/leetcode_2025/tree/master/0930-all-possible-full-binary-trees) |
 | [0975-range-sum-of-bst](https://github.com/Sadanki/leetcode_2025/tree/master/0975-range-sum-of-bst) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/Sadanki/leetcode_2025/tree/master/1021-distribute-coins-in-binary-tree) |
@@ -414,6 +415,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Sadanki/leetcode_2025/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Sadanki/leetcode_2025/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Sadanki/leetcode_2025/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0904-leaf-similar-trees](https://github.com/Sadanki/leetcode_2025/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/Sadanki/leetcode_2025/tree/master/0975-range-sum-of-bst) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/Sadanki/leetcode_2025/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1722-throne-inheritance](https://github.com/Sadanki/leetcode_2025/tree/master/1722-throne-inheritance) |
@@ -449,6 +451,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0783-search-in-a-binary-search-tree](https://github.com/Sadanki/leetcode_2025/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sadanki/leetcode_2025/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Sadanki/leetcode_2025/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0904-leaf-similar-trees](https://github.com/Sadanki/leetcode_2025/tree/master/0904-leaf-similar-trees) |
 | [0930-all-possible-full-binary-trees](https://github.com/Sadanki/leetcode_2025/tree/master/0930-all-possible-full-binary-trees) |
 | [0975-range-sum-of-bst](https://github.com/Sadanki/leetcode_2025/tree/master/0975-range-sum-of-bst) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/Sadanki/leetcode_2025/tree/master/1021-distribute-coins-in-binary-tree) |
