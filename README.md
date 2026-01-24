@@ -362,6 +362,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0501-find-mode-in-binary-search-tree](https://github.com/Sadanki/leetcode_2025/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Sadanki/leetcode_2025/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Sadanki/leetcode_2025/tree/master/0543-diameter-of-binary-tree) |
+| [0563-binary-tree-tilt](https://github.com/Sadanki/leetcode_2025/tree/master/0563-binary-tree-tilt) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sadanki/leetcode_2025/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0655-print-binary-tree](https://github.com/Sadanki/leetcode_2025/tree/master/0655-print-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Sadanki/leetcode_2025/tree/master/0662-maximum-width-of-binary-tree) |
@@ -392,6 +393,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0501-find-mode-in-binary-search-tree](https://github.com/Sadanki/leetcode_2025/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Sadanki/leetcode_2025/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Sadanki/leetcode_2025/tree/master/0543-diameter-of-binary-tree) |
+| [0563-binary-tree-tilt](https://github.com/Sadanki/leetcode_2025/tree/master/0563-binary-tree-tilt) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sadanki/leetcode_2025/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0655-print-binary-tree](https://github.com/Sadanki/leetcode_2025/tree/master/0655-print-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Sadanki/leetcode_2025/tree/master/0662-maximum-width-of-binary-tree) |
@@ -428,6 +430,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0501-find-mode-in-binary-search-tree](https://github.com/Sadanki/leetcode_2025/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Sadanki/leetcode_2025/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Sadanki/leetcode_2025/tree/master/0543-diameter-of-binary-tree) |
+| [0563-binary-tree-tilt](https://github.com/Sadanki/leetcode_2025/tree/master/0563-binary-tree-tilt) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sadanki/leetcode_2025/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0655-print-binary-tree](https://github.com/Sadanki/leetcode_2025/tree/master/0655-print-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Sadanki/leetcode_2025/tree/master/0662-maximum-width-of-binary-tree) |
