@@ -383,6 +383,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [1021-distribute-coins-in-binary-tree](https://github.com/Sadanki/leetcode_2025/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Sadanki/leetcode_2025/tree/master/1035-cousins-in-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Sadanki/leetcode_2025/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
+| [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Sadanki/leetcode_2025/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1722-throne-inheritance](https://github.com/Sadanki/leetcode_2025/tree/master/1722-throne-inheritance) |
 ## Depth-First Search
 |  |
@@ -424,6 +425,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [1021-distribute-coins-in-binary-tree](https://github.com/Sadanki/leetcode_2025/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Sadanki/leetcode_2025/tree/master/1035-cousins-in-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Sadanki/leetcode_2025/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
+| [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Sadanki/leetcode_2025/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1722-throne-inheritance](https://github.com/Sadanki/leetcode_2025/tree/master/1722-throne-inheritance) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Sadanki/leetcode_2025/tree/master/2206-detonate-the-maximum-bombs) |
 ## Binary Tree
@@ -464,6 +466,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [1021-distribute-coins-in-binary-tree](https://github.com/Sadanki/leetcode_2025/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Sadanki/leetcode_2025/tree/master/1035-cousins-in-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Sadanki/leetcode_2025/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
+| [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Sadanki/leetcode_2025/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -488,6 +491,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Sadanki/leetcode_2025/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1005-univalued-binary-tree](https://github.com/Sadanki/leetcode_2025/tree/master/1005-univalued-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Sadanki/leetcode_2025/tree/master/1035-cousins-in-binary-tree) |
+| [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Sadanki/leetcode_2025/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Sadanki/leetcode_2025/tree/master/2206-detonate-the-maximum-bombs) |
 ## Dynamic Programming
 |  |
