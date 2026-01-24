@@ -385,6 +385,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Sadanki/leetcode_2025/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Sadanki/leetcode_2025/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1722-throne-inheritance](https://github.com/Sadanki/leetcode_2025/tree/master/1722-throne-inheritance) |
+| [2384-root-equals-sum-of-children](https://github.com/Sadanki/leetcode_2025/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -467,6 +468,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [1035-cousins-in-binary-tree](https://github.com/Sadanki/leetcode_2025/tree/master/1035-cousins-in-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Sadanki/leetcode_2025/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Sadanki/leetcode_2025/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [2384-root-equals-sum-of-children](https://github.com/Sadanki/leetcode_2025/tree/master/2384-root-equals-sum-of-children) |
 ## Breadth-First Search
 |  |
 | ------- |
