@@ -52,6 +52,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0064-minimum-path-sum](https://github.com/Sadanki/leetcode_2025/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Sadanki/leetcode_2025/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Sadanki/leetcode_2025/tree/master/0075-sort-colors) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sadanki/leetcode_2025/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Sadanki/leetcode_2025/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sadanki/leetcode_2025/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0119-pascals-triangle-ii) |
@@ -177,6 +178,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | ------- |
 | [0036-valid-sudoku](https://github.com/Sadanki/leetcode_2025/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Sadanki/leetcode_2025/tree/master/0049-group-anagrams) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sadanki/leetcode_2025/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Sadanki/leetcode_2025/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0139-word-break](https://github.com/Sadanki/leetcode_2025/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0140-word-break-ii) |
@@ -348,6 +350,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0096-unique-binary-search-trees](https://github.com/Sadanki/leetcode_2025/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Sadanki/leetcode_2025/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Sadanki/leetcode_2025/tree/master/0102-binary-tree-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sadanki/leetcode_2025/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Sadanki/leetcode_2025/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sadanki/leetcode_2025/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sadanki/leetcode_2025/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -437,6 +440,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0096-unique-binary-search-trees](https://github.com/Sadanki/leetcode_2025/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Sadanki/leetcode_2025/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Sadanki/leetcode_2025/tree/master/0102-binary-tree-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sadanki/leetcode_2025/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Sadanki/leetcode_2025/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sadanki/leetcode_2025/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sadanki/leetcode_2025/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -643,6 +647,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sadanki/leetcode_2025/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Sadanki/leetcode_2025/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sadanki/leetcode_2025/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sadanki/leetcode_2025/tree/master/0215-kth-largest-element-in-an-array) |
