@@ -234,6 +234,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0205-isomorphic-strings](https://github.com/Sadanki/leetcode_2025/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/Sadanki/leetcode_2025/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sadanki/leetcode_2025/tree/master/0241-different-ways-to-add-parentheses) |
+| [0257-binary-tree-paths](https://github.com/Sadanki/leetcode_2025/tree/master/0257-binary-tree-paths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sadanki/leetcode_2025/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/Sadanki/leetcode_2025/tree/master/0412-fizz-buzz) |
 | [0500-keyboard-row](https://github.com/Sadanki/leetcode_2025/tree/master/0500-keyboard-row) |
@@ -354,6 +355,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0199-binary-tree-right-side-view](https://github.com/Sadanki/leetcode_2025/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Sadanki/leetcode_2025/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sadanki/leetcode_2025/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Sadanki/leetcode_2025/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/Sadanki/leetcode_2025/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/Sadanki/leetcode_2025/tree/master/0437-path-sum-iii) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Sadanki/leetcode_2025/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -379,6 +381,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Sadanki/leetcode_2025/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sadanki/leetcode_2025/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Sadanki/leetcode_2025/tree/master/0257-binary-tree-paths) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sadanki/leetcode_2025/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/Sadanki/leetcode_2025/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/Sadanki/leetcode_2025/tree/master/0437-path-sum-iii) |
@@ -414,6 +417,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0199-binary-tree-right-side-view](https://github.com/Sadanki/leetcode_2025/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Sadanki/leetcode_2025/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sadanki/leetcode_2025/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Sadanki/leetcode_2025/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/Sadanki/leetcode_2025/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/Sadanki/leetcode_2025/tree/master/0437-path-sum-iii) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Sadanki/leetcode_2025/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -747,6 +751,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0113-path-sum-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/Sadanki/leetcode_2025/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0140-word-break-ii) |
+| [0257-binary-tree-paths](https://github.com/Sadanki/leetcode_2025/tree/master/0257-binary-tree-paths) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Sadanki/leetcode_2025/tree/master/0357-count-numbers-with-unique-digits) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Sadanki/leetcode_2025/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Heap (Priority Queue)
