@@ -103,6 +103,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Sadanki/leetcode_2025/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0611-valid-triangle-number](https://github.com/Sadanki/leetcode_2025/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sadanki/leetcode_2025/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/Sadanki/leetcode_2025/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Sadanki/leetcode_2025/tree/master/0658-find-k-closest-elements) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Sadanki/leetcode_2025/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0713-subarray-product-less-than-k](https://github.com/Sadanki/leetcode_2025/tree/master/0713-subarray-product-less-than-k) |
@@ -817,6 +818,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0219-contains-duplicate-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/Sadanki/leetcode_2025/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sadanki/leetcode_2025/tree/master/0594-longest-harmonious-subsequence) |
+| [0643-maximum-average-subarray-i](https://github.com/Sadanki/leetcode_2025/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Sadanki/leetcode_2025/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/Sadanki/leetcode_2025/tree/master/0713-subarray-product-less-than-k) |
 | [1733-maximum-number-of-visible-points](https://github.com/Sadanki/leetcode_2025/tree/master/1733-maximum-number-of-visible-points) |
