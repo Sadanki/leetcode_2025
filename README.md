@@ -44,6 +44,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sadanki/leetcode_2025/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Sadanki/leetcode_2025/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Sadanki/leetcode_2025/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Sadanki/leetcode_2025/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Sadanki/leetcode_2025/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/Sadanki/leetcode_2025/tree/master/0049-group-anagrams) |
@@ -184,6 +185,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Sadanki/leetcode_2025/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Sadanki/leetcode_2025/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Sadanki/leetcode_2025/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sadanki/leetcode_2025/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Sadanki/leetcode_2025/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -613,6 +615,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Sadanki/leetcode_2025/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Sadanki/leetcode_2025/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Sadanki/leetcode_2025/tree/master/0064-minimum-path-sum) |
 | [0221-maximal-square](https://github.com/Sadanki/leetcode_2025/tree/master/0221-maximal-square) |
@@ -837,6 +840,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Sadanki/leetcode_2025/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Sadanki/leetcode_2025/tree/master/0039-combination-sum) |
 | [0113-path-sum-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/Sadanki/leetcode_2025/tree/master/0131-palindrome-partitioning) |
