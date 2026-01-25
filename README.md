@@ -46,6 +46,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0036-valid-sudoku](https://github.com/Sadanki/leetcode_2025/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Sadanki/leetcode_2025/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Sadanki/leetcode_2025/tree/master/0039-combination-sum) |
+| [0041-first-missing-positive](https://github.com/Sadanki/leetcode_2025/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/Sadanki/leetcode_2025/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Sadanki/leetcode_2025/tree/master/0055-jump-game) |
@@ -186,6 +187,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | ------- |
 | [0036-valid-sudoku](https://github.com/Sadanki/leetcode_2025/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Sadanki/leetcode_2025/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/Sadanki/leetcode_2025/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Sadanki/leetcode_2025/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sadanki/leetcode_2025/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Sadanki/leetcode_2025/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
