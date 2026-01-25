@@ -106,6 +106,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0643-maximum-average-subarray-i](https://github.com/Sadanki/leetcode_2025/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Sadanki/leetcode_2025/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/Sadanki/leetcode_2025/tree/master/0658-find-k-closest-elements) |
+| [0661-image-smoother](https://github.com/Sadanki/leetcode_2025/tree/master/0661-image-smoother) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Sadanki/leetcode_2025/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0713-subarray-product-less-than-k](https://github.com/Sadanki/leetcode_2025/tree/master/0713-subarray-product-less-than-k) |
 | [0729-my-calendar-i](https://github.com/Sadanki/leetcode_2025/tree/master/0729-my-calendar-i) |
@@ -618,6 +619,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0463-island-perimeter](https://github.com/Sadanki/leetcode_2025/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/Sadanki/leetcode_2025/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/Sadanki/leetcode_2025/tree/master/0566-reshape-the-matrix) |
+| [0661-image-smoother](https://github.com/Sadanki/leetcode_2025/tree/master/0661-image-smoother) |
 | [0733-flood-fill](https://github.com/Sadanki/leetcode_2025/tree/master/0733-flood-fill) |
 | [0864-image-overlap](https://github.com/Sadanki/leetcode_2025/tree/master/0864-image-overlap) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sadanki/leetcode_2025/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
