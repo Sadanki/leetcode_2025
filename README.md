@@ -218,6 +218,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [1694-make-sum-divisible-by-p](https://github.com/Sadanki/leetcode_2025/tree/master/1694-make-sum-divisible-by-p) |
 | [1722-throne-inheritance](https://github.com/Sadanki/leetcode_2025/tree/master/1722-throne-inheritance) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/Sadanki/leetcode_2025/tree/master/1844-maximum-number-of-balls-in-a-box) |
+| [1873-longest-nice-substring](https://github.com/Sadanki/leetcode_2025/tree/master/1873-longest-nice-substring) |
 | [1904-second-largest-digit-in-a-string](https://github.com/Sadanki/leetcode_2025/tree/master/1904-second-largest-digit-in-a-string) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/Sadanki/leetcode_2025/tree/master/1933-number-of-different-integers-in-a-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Sadanki/leetcode_2025/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -277,6 +278,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [1714-rearrange-spaces-between-words](https://github.com/Sadanki/leetcode_2025/tree/master/1714-rearrange-spaces-between-words) |
 | [1812-reformat-phone-number](https://github.com/Sadanki/leetcode_2025/tree/master/1812-reformat-phone-number) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/Sadanki/leetcode_2025/tree/master/1858-latest-time-by-replacing-hidden-digits) |
+| [1873-longest-nice-substring](https://github.com/Sadanki/leetcode_2025/tree/master/1873-longest-nice-substring) |
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/Sadanki/leetcode_2025/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 | [1904-second-largest-digit-in-a-string](https://github.com/Sadanki/leetcode_2025/tree/master/1904-second-largest-digit-in-a-string) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/Sadanki/leetcode_2025/tree/master/1933-number-of-different-integers-in-a-string) |
@@ -693,6 +695,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0240-search-a-2d-matrix-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Sadanki/leetcode_2025/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/Sadanki/leetcode_2025/tree/master/1014-k-closest-points-to-origin) |
+| [1873-longest-nice-substring](https://github.com/Sadanki/leetcode_2025/tree/master/1873-longest-nice-substring) |
 ## Linked List
 |  |
 | ------- |
@@ -765,6 +768,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0645-set-mismatch](https://github.com/Sadanki/leetcode_2025/tree/master/0645-set-mismatch) |
 | [0672-bulb-switcher-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0672-bulb-switcher-ii) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Sadanki/leetcode_2025/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [1873-longest-nice-substring](https://github.com/Sadanki/leetcode_2025/tree/master/1873-longest-nice-substring) |
 | [2159-two-out-of-three](https://github.com/Sadanki/leetcode_2025/tree/master/2159-two-out-of-three) |
 ## Simulation
 |  |
@@ -838,6 +842,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0713-subarray-product-less-than-k](https://github.com/Sadanki/leetcode_2025/tree/master/0713-subarray-product-less-than-k) |
 | [1733-maximum-number-of-visible-points](https://github.com/Sadanki/leetcode_2025/tree/master/1733-maximum-number-of-visible-points) |
 | [1755-defuse-the-bomb](https://github.com/Sadanki/leetcode_2025/tree/master/1755-defuse-the-bomb) |
+| [1873-longest-nice-substring](https://github.com/Sadanki/leetcode_2025/tree/master/1873-longest-nice-substring) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Sadanki/leetcode_2025/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Backtracking
 |  |
