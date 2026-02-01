@@ -175,6 +175,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Sadanki/leetcode_2025/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sadanki/leetcode_2025/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2634-minimum-common-value](https://github.com/Sadanki/leetcode_2025/tree/master/2634-minimum-common-value) |
+| [2866-longest-even-odd-subarray-with-threshold](https://github.com/Sadanki/leetcode_2025/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Sadanki/leetcode_2025/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Sadanki/leetcode_2025/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3790-fruits-into-baskets-ii](https://github.com/Sadanki/leetcode_2025/tree/master/3790-fruits-into-baskets-ii) |
@@ -853,6 +854,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Sadanki/leetcode_2025/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Sadanki/leetcode_2025/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Sadanki/leetcode_2025/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2866-longest-even-odd-subarray-with-threshold](https://github.com/Sadanki/leetcode_2025/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 ## Backtracking
 |  |
 | ------- |
