@@ -203,6 +203,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0264-ugly-number-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Sadanki/leetcode_2025/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Sadanki/leetcode_2025/tree/master/0347-top-k-frequent-elements) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Sadanki/leetcode_2025/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0500-keyboard-row](https://github.com/Sadanki/leetcode_2025/tree/master/0500-keyboard-row) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Sadanki/leetcode_2025/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/Sadanki/leetcode_2025/tree/master/0567-permutation-in-string) |
@@ -256,6 +257,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0241-different-ways-to-add-parentheses](https://github.com/Sadanki/leetcode_2025/tree/master/0241-different-ways-to-add-parentheses) |
 | [0257-binary-tree-paths](https://github.com/Sadanki/leetcode_2025/tree/master/0257-binary-tree-paths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sadanki/leetcode_2025/tree/master/0345-reverse-vowels-of-a-string) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Sadanki/leetcode_2025/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0412-fizz-buzz](https://github.com/Sadanki/leetcode_2025/tree/master/0412-fizz-buzz) |
 | [0500-keyboard-row](https://github.com/Sadanki/leetcode_2025/tree/master/0500-keyboard-row) |
 | [0541-reverse-string-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0541-reverse-string-ii) |
@@ -701,6 +703,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0215-kth-largest-element-in-an-array](https://github.com/Sadanki/leetcode_2025/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Sadanki/leetcode_2025/tree/master/0347-top-k-frequent-elements) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Sadanki/leetcode_2025/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1014-k-closest-points-to-origin](https://github.com/Sadanki/leetcode_2025/tree/master/1014-k-closest-points-to-origin) |
 | [1873-longest-nice-substring](https://github.com/Sadanki/leetcode_2025/tree/master/1873-longest-nice-substring) |
 ## Linked List
@@ -846,6 +849,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0187-repeated-dna-sequences](https://github.com/Sadanki/leetcode_2025/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sadanki/leetcode_2025/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0219-contains-duplicate-ii) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Sadanki/leetcode_2025/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/Sadanki/leetcode_2025/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sadanki/leetcode_2025/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Sadanki/leetcode_2025/tree/master/0643-maximum-average-subarray-i) |
