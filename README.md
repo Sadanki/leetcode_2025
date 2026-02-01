@@ -272,6 +272,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [1274-number-of-days-between-two-dates](https://github.com/Sadanki/leetcode_2025/tree/master/1274-number-of-days-between-two-dates) |
 | [1283-reformat-date](https://github.com/Sadanki/leetcode_2025/tree/master/1283-reformat-date) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Sadanki/leetcode_2025/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/Sadanki/leetcode_2025/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1454-remove-palindromic-subsequences](https://github.com/Sadanki/leetcode_2025/tree/master/1454-remove-palindromic-subsequences) |
 | [1470-tweet-counts-per-frequency](https://github.com/Sadanki/leetcode_2025/tree/master/1470-tweet-counts-per-frequency) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Sadanki/leetcode_2025/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
@@ -748,6 +749,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [1274-number-of-days-between-two-dates](https://github.com/Sadanki/leetcode_2025/tree/master/1274-number-of-days-between-two-dates) |
 | [1279-prime-arrangements](https://github.com/Sadanki/leetcode_2025/tree/master/1279-prime-arrangements) |
 | [1289-day-of-the-week](https://github.com/Sadanki/leetcode_2025/tree/master/1289-day-of-the-week) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/Sadanki/leetcode_2025/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1733-maximum-number-of-visible-points](https://github.com/Sadanki/leetcode_2025/tree/master/1733-maximum-number-of-visible-points) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/Sadanki/leetcode_2025/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Sadanki/leetcode_2025/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -843,6 +845,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0643-maximum-average-subarray-i](https://github.com/Sadanki/leetcode_2025/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Sadanki/leetcode_2025/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/Sadanki/leetcode_2025/tree/master/0713-subarray-product-less-than-k) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/Sadanki/leetcode_2025/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1733-maximum-number-of-visible-points](https://github.com/Sadanki/leetcode_2025/tree/master/1733-maximum-number-of-visible-points) |
 | [1755-defuse-the-bomb](https://github.com/Sadanki/leetcode_2025/tree/master/1755-defuse-the-bomb) |
 | [1873-longest-nice-substring](https://github.com/Sadanki/leetcode_2025/tree/master/1873-longest-nice-substring) |
