@@ -123,6 +123,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0805-escape-the-ghosts](https://github.com/Sadanki/leetcode_2025/tree/master/0805-escape-the-ghosts) |
 | [0808-number-of-matching-subsequences](https://github.com/Sadanki/leetcode_2025/tree/master/0808-number-of-matching-subsequences) |
 | [0816-design-hashset](https://github.com/Sadanki/leetcode_2025/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/Sadanki/leetcode_2025/tree/master/0817-design-hashmap) |
 | [0852-friends-of-appropriate-ages](https://github.com/Sadanki/leetcode_2025/tree/master/0852-friends-of-appropriate-ages) |
 | [0864-image-overlap](https://github.com/Sadanki/leetcode_2025/tree/master/0864-image-overlap) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Sadanki/leetcode_2025/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -217,6 +218,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0782-jewels-and-stones](https://github.com/Sadanki/leetcode_2025/tree/master/0782-jewels-and-stones) |
 | [0808-number-of-matching-subsequences](https://github.com/Sadanki/leetcode_2025/tree/master/0808-number-of-matching-subsequences) |
 | [0816-design-hashset](https://github.com/Sadanki/leetcode_2025/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/Sadanki/leetcode_2025/tree/master/0817-design-hashmap) |
 | [0924-fair-candy-swap](https://github.com/Sadanki/leetcode_2025/tree/master/0924-fair-candy-swap) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Sadanki/leetcode_2025/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1470-tweet-counts-per-frequency](https://github.com/Sadanki/leetcode_2025/tree/master/1470-tweet-counts-per-frequency) |
@@ -375,6 +377,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0731-my-calendar-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sadanki/leetcode_2025/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0816-design-hashset](https://github.com/Sadanki/leetcode_2025/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/Sadanki/leetcode_2025/tree/master/0817-design-hashmap) |
 | [1470-tweet-counts-per-frequency](https://github.com/Sadanki/leetcode_2025/tree/master/1470-tweet-counts-per-frequency) |
 | [1722-throne-inheritance](https://github.com/Sadanki/leetcode_2025/tree/master/1722-throne-inheritance) |
 ## Tree
@@ -720,6 +723,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Sadanki/leetcode_2025/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0816-design-hashset](https://github.com/Sadanki/leetcode_2025/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/Sadanki/leetcode_2025/tree/master/0817-design-hashmap) |
 ## Math
 |  |
 | ------- |
@@ -1073,4 +1077,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Sadanki/leetcode_2025/tree/master/0187-repeated-dna-sequences) |
 | [0816-design-hashset](https://github.com/Sadanki/leetcode_2025/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/Sadanki/leetcode_2025/tree/master/0817-design-hashmap) |
 <!---LeetCode Topics End-->
