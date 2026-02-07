@@ -47,6 +47,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0036-valid-sudoku](https://github.com/Sadanki/leetcode_2025/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Sadanki/leetcode_2025/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Sadanki/leetcode_2025/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Sadanki/leetcode_2025/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/Sadanki/leetcode_2025/tree/master/0049-group-anagrams) |
@@ -881,6 +882,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | ------- |
 | [0037-sudoku-solver](https://github.com/Sadanki/leetcode_2025/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Sadanki/leetcode_2025/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0040-combination-sum-ii) |
 | [0113-path-sum-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/Sadanki/leetcode_2025/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0140-word-break-ii) |
