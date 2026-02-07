@@ -41,6 +41,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | ------- |
 | [0016-3sum-closest](https://github.com/Sadanki/leetcode_2025/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Sadanki/leetcode_2025/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/Sadanki/leetcode_2025/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sadanki/leetcode_2025/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Sadanki/leetcode_2025/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Sadanki/leetcode_2025/tree/master/0036-valid-sudoku) |
@@ -827,6 +828,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0016-3sum-closest](https://github.com/Sadanki/leetcode_2025/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Sadanki/leetcode_2025/tree/master/0018-4sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sadanki/leetcode_2025/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/Sadanki/leetcode_2025/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Sadanki/leetcode_2025/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0125-valid-palindrome](https://github.com/Sadanki/leetcode_2025/tree/master/0125-valid-palindrome) |
