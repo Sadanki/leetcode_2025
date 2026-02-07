@@ -291,6 +291,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Sadanki/leetcode_2025/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1698-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/Sadanki/leetcode_2025/tree/master/1698-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1714-rearrange-spaces-between-words](https://github.com/Sadanki/leetcode_2025/tree/master/1714-rearrange-spaces-between-words) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/Sadanki/leetcode_2025/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1812-reformat-phone-number](https://github.com/Sadanki/leetcode_2025/tree/master/1812-reformat-phone-number) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/Sadanki/leetcode_2025/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 | [1873-longest-nice-substring](https://github.com/Sadanki/leetcode_2025/tree/master/1873-longest-nice-substring) |
@@ -372,6 +373,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Sadanki/leetcode_2025/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Sadanki/leetcode_2025/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Sadanki/leetcode_2025/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/Sadanki/leetcode_2025/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Design
 |  |
 | ------- |
@@ -610,6 +612,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [1013-fibonacci-number](https://github.com/Sadanki/leetcode_2025/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/Sadanki/leetcode_2025/tree/master/1025-minimum-cost-for-tickets) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Sadanki/leetcode_2025/tree/master/1388-greatest-sum-divisible-by-three) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/Sadanki/leetcode_2025/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Greedy
 |  |
 | ------- |
