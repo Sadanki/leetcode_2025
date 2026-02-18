@@ -122,6 +122,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Sadanki/leetcode_2025/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/Sadanki/leetcode_2025/tree/master/0747-min-cost-climbing-stairs) |
 | [0749-shortest-completing-word](https://github.com/Sadanki/leetcode_2025/tree/master/0749-shortest-completing-word) |
+| [0777-toeplitz-matrix](https://github.com/Sadanki/leetcode_2025/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/Sadanki/leetcode_2025/tree/master/0792-binary-search) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Sadanki/leetcode_2025/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0805-escape-the-ghosts](https://github.com/Sadanki/leetcode_2025/tree/master/0805-escape-the-ghosts) |
@@ -654,6 +655,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0566-reshape-the-matrix](https://github.com/Sadanki/leetcode_2025/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/Sadanki/leetcode_2025/tree/master/0661-image-smoother) |
 | [0733-flood-fill](https://github.com/Sadanki/leetcode_2025/tree/master/0733-flood-fill) |
+| [0777-toeplitz-matrix](https://github.com/Sadanki/leetcode_2025/tree/master/0777-toeplitz-matrix) |
 | [0864-image-overlap](https://github.com/Sadanki/leetcode_2025/tree/master/0864-image-overlap) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sadanki/leetcode_2025/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Sadanki/leetcode_2025/tree/master/2132-convert-1d-array-into-2d-array) |
