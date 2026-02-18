@@ -133,6 +133,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0864-image-overlap](https://github.com/Sadanki/leetcode_2025/tree/master/0864-image-overlap) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Sadanki/leetcode_2025/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/Sadanki/leetcode_2025/tree/master/0890-lemonade-change) |
+| [0898-transpose-matrix](https://github.com/Sadanki/leetcode_2025/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/Sadanki/leetcode_2025/tree/master/0907-koko-eating-bananas) |
 | [0912-random-pick-with-weight](https://github.com/Sadanki/leetcode_2025/tree/master/0912-random-pick-with-weight) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/Sadanki/leetcode_2025/tree/master/0914-random-point-in-non-overlapping-rectangles) |
@@ -657,6 +658,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0733-flood-fill](https://github.com/Sadanki/leetcode_2025/tree/master/0733-flood-fill) |
 | [0777-toeplitz-matrix](https://github.com/Sadanki/leetcode_2025/tree/master/0777-toeplitz-matrix) |
 | [0864-image-overlap](https://github.com/Sadanki/leetcode_2025/tree/master/0864-image-overlap) |
+| [0898-transpose-matrix](https://github.com/Sadanki/leetcode_2025/tree/master/0898-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sadanki/leetcode_2025/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Sadanki/leetcode_2025/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Binary Search
@@ -808,6 +810,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0495-teemo-attacking](https://github.com/Sadanki/leetcode_2025/tree/master/0495-teemo-attacking) |
 | [0566-reshape-the-matrix](https://github.com/Sadanki/leetcode_2025/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/Sadanki/leetcode_2025/tree/master/0682-baseball-game) |
+| [0898-transpose-matrix](https://github.com/Sadanki/leetcode_2025/tree/master/0898-transpose-matrix) |
 | [1682-most-visited-sector-in-a-circular-track](https://github.com/Sadanki/leetcode_2025/tree/master/1682-most-visited-sector-in-a-circular-track) |
 | [1721-maximum-profit-of-operating-a-centennial-wheel](https://github.com/Sadanki/leetcode_2025/tree/master/1721-maximum-profit-of-operating-a-centennial-wheel) |
 | [1769-get-maximum-in-generated-array](https://github.com/Sadanki/leetcode_2025/tree/master/1769-get-maximum-in-generated-array) |
