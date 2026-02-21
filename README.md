@@ -486,6 +486,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Sadanki/leetcode_2025/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Sadanki/leetcode_2025/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1722-throne-inheritance](https://github.com/Sadanki/leetcode_2025/tree/master/1722-throne-inheritance) |
+| [2121-find-if-path-exists-in-graph](https://github.com/Sadanki/leetcode_2025/tree/master/2121-find-if-path-exists-in-graph) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Sadanki/leetcode_2025/tree/master/2206-detonate-the-maximum-bombs) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Sadanki/leetcode_2025/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Binary Tree
@@ -563,6 +564,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [1005-univalued-binary-tree](https://github.com/Sadanki/leetcode_2025/tree/master/1005-univalued-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Sadanki/leetcode_2025/tree/master/1035-cousins-in-binary-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Sadanki/leetcode_2025/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [2121-find-if-path-exists-in-graph](https://github.com/Sadanki/leetcode_2025/tree/master/2121-find-if-path-exists-in-graph) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Sadanki/leetcode_2025/tree/master/2206-detonate-the-maximum-bombs) |
 ## Dynamic Programming
 |  |
@@ -1093,4 +1095,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0187-repeated-dna-sequences](https://github.com/Sadanki/leetcode_2025/tree/master/0187-repeated-dna-sequences) |
 | [0816-design-hashset](https://github.com/Sadanki/leetcode_2025/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Sadanki/leetcode_2025/tree/master/0817-design-hashmap) |
+## Union-Find
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/Sadanki/leetcode_2025/tree/master/2121-find-if-path-exists-in-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/Sadanki/leetcode_2025/tree/master/2121-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
