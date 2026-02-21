@@ -63,6 +63,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0120-triangle](https://github.com/Sadanki/leetcode_2025/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Sadanki/leetcode_2025/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/Sadanki/leetcode_2025/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/Sadanki/leetcode_2025/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/Sadanki/leetcode_2025/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0140-word-break-ii) |
@@ -452,6 +453,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Sadanki/leetcode_2025/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Sadanki/leetcode_2025/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0130-surrounded-regions](https://github.com/Sadanki/leetcode_2025/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/Sadanki/leetcode_2025/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Sadanki/leetcode_2025/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sadanki/leetcode_2025/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -547,6 +549,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sadanki/leetcode_2025/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Sadanki/leetcode_2025/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0130-surrounded-regions](https://github.com/Sadanki/leetcode_2025/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/Sadanki/leetcode_2025/tree/master/0199-binary-tree-right-side-view) |
 | [0279-perfect-squares](https://github.com/Sadanki/leetcode_2025/tree/master/0279-perfect-squares) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sadanki/leetcode_2025/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -651,6 +654,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0037-sudoku-solver](https://github.com/Sadanki/leetcode_2025/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Sadanki/leetcode_2025/tree/master/0064-minimum-path-sum) |
+| [0130-surrounded-regions](https://github.com/Sadanki/leetcode_2025/tree/master/0130-surrounded-regions) |
 | [0221-maximal-square](https://github.com/Sadanki/leetcode_2025/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0240-search-a-2d-matrix-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sadanki/leetcode_2025/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -1101,6 +1105,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Sadanki/leetcode_2025/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/Sadanki/leetcode_2025/tree/master/0130-surrounded-regions) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Sadanki/leetcode_2025/tree/master/2121-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
