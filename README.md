@@ -89,6 +89,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0377-combination-sum-iv](https://github.com/Sadanki/leetcode_2025/tree/master/0377-combination-sum-iv) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sadanki/leetcode_2025/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0396-rotate-function](https://github.com/Sadanki/leetcode_2025/tree/master/0396-rotate-function) |
+| [0399-evaluate-division](https://github.com/Sadanki/leetcode_2025/tree/master/0399-evaluate-division) |
 | [0416-partition-equal-subset-sum](https://github.com/Sadanki/leetcode_2025/tree/master/0416-partition-equal-subset-sum) |
 | [0436-find-right-interval](https://github.com/Sadanki/leetcode_2025/tree/master/0436-find-right-interval) |
 | [0455-assign-cookies](https://github.com/Sadanki/leetcode_2025/tree/master/0455-assign-cookies) |
@@ -271,6 +272,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0257-binary-tree-paths](https://github.com/Sadanki/leetcode_2025/tree/master/0257-binary-tree-paths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sadanki/leetcode_2025/tree/master/0345-reverse-vowels-of-a-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Sadanki/leetcode_2025/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0399-evaluate-division](https://github.com/Sadanki/leetcode_2025/tree/master/0399-evaluate-division) |
 | [0412-fizz-buzz](https://github.com/Sadanki/leetcode_2025/tree/master/0412-fizz-buzz) |
 | [0500-keyboard-row](https://github.com/Sadanki/leetcode_2025/tree/master/0500-keyboard-row) |
 | [0541-reverse-string-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0541-reverse-string-ii) |
@@ -461,6 +463,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0257-binary-tree-paths](https://github.com/Sadanki/leetcode_2025/tree/master/0257-binary-tree-paths) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sadanki/leetcode_2025/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/Sadanki/leetcode_2025/tree/master/0337-house-robber-iii) |
+| [0399-evaluate-division](https://github.com/Sadanki/leetcode_2025/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/Sadanki/leetcode_2025/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/Sadanki/leetcode_2025/tree/master/0437-path-sum-iii) |
 | [0463-island-perimeter](https://github.com/Sadanki/leetcode_2025/tree/master/0463-island-perimeter) |
@@ -553,6 +556,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0199-binary-tree-right-side-view](https://github.com/Sadanki/leetcode_2025/tree/master/0199-binary-tree-right-side-view) |
 | [0279-perfect-squares](https://github.com/Sadanki/leetcode_2025/tree/master/0279-perfect-squares) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sadanki/leetcode_2025/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0399-evaluate-division](https://github.com/Sadanki/leetcode_2025/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/Sadanki/leetcode_2025/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/Sadanki/leetcode_2025/tree/master/0463-island-perimeter) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Sadanki/leetcode_2025/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -1106,9 +1110,15 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Sadanki/leetcode_2025/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Sadanki/leetcode_2025/tree/master/0130-surrounded-regions) |
+| [0399-evaluate-division](https://github.com/Sadanki/leetcode_2025/tree/master/0399-evaluate-division) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Sadanki/leetcode_2025/tree/master/2121-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/Sadanki/leetcode_2025/tree/master/0399-evaluate-division) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Sadanki/leetcode_2025/tree/master/2121-find-if-path-exists-in-graph) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/Sadanki/leetcode_2025/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
