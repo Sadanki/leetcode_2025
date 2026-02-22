@@ -294,6 +294,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [1260-day-of-the-year](https://github.com/Sadanki/leetcode_2025/tree/master/1260-day-of-the-year) |
 | [1274-number-of-days-between-two-dates](https://github.com/Sadanki/leetcode_2025/tree/master/1274-number-of-days-between-two-dates) |
 | [1283-reformat-date](https://github.com/Sadanki/leetcode_2025/tree/master/1283-reformat-date) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/Sadanki/leetcode_2025/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Sadanki/leetcode_2025/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Sadanki/leetcode_2025/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1454-remove-palindromic-subsequences](https://github.com/Sadanki/leetcode_2025/tree/master/1454-remove-palindromic-subsequences) |
@@ -650,6 +651,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Sadanki/leetcode_2025/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Sadanki/leetcode_2025/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Sadanki/leetcode_2025/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/Sadanki/leetcode_2025/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Sadanki/leetcode_2025/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/Sadanki/leetcode_2025/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/Sadanki/leetcode_2025/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
@@ -844,6 +846,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0347-top-k-frequent-elements](https://github.com/Sadanki/leetcode_2025/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sadanki/leetcode_2025/tree/master/0594-longest-harmonious-subsequence) |
 | [0778-reorganize-string](https://github.com/Sadanki/leetcode_2025/tree/master/0778-reorganize-string) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/Sadanki/leetcode_2025/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/Sadanki/leetcode_2025/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Sadanki/leetcode_2025/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Sadanki/leetcode_2025/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
