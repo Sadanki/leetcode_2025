@@ -151,6 +151,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [1115-valid-boomerang](https://github.com/Sadanki/leetcode_2025/tree/master/1115-valid-boomerang) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Sadanki/leetcode_2025/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1293-three-consecutive-odds](https://github.com/Sadanki/leetcode_2025/tree/master/1293-three-consecutive-odds) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Sadanki/leetcode_2025/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Sadanki/leetcode_2025/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Sadanki/leetcode_2025/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sadanki/leetcode_2025/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -648,6 +649,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [1018-largest-perimeter-triangle](https://github.com/Sadanki/leetcode_2025/tree/master/1018-largest-perimeter-triangle) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Sadanki/leetcode_2025/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Sadanki/leetcode_2025/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Sadanki/leetcode_2025/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Sadanki/leetcode_2025/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/Sadanki/leetcode_2025/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/Sadanki/leetcode_2025/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
@@ -793,6 +795,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [1274-number-of-days-between-two-dates](https://github.com/Sadanki/leetcode_2025/tree/master/1274-number-of-days-between-two-dates) |
 | [1279-prime-arrangements](https://github.com/Sadanki/leetcode_2025/tree/master/1279-prime-arrangements) |
 | [1289-day-of-the-week](https://github.com/Sadanki/leetcode_2025/tree/master/1289-day-of-the-week) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Sadanki/leetcode_2025/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Sadanki/leetcode_2025/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1733-maximum-number-of-visible-points](https://github.com/Sadanki/leetcode_2025/tree/master/1733-maximum-number-of-visible-points) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/Sadanki/leetcode_2025/tree/master/1844-maximum-number-of-balls-in-a-box) |
