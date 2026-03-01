@@ -225,6 +225,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Sadanki/leetcode_2025/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0500-keyboard-row](https://github.com/Sadanki/leetcode_2025/tree/master/0500-keyboard-row) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Sadanki/leetcode_2025/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0535-encode-and-decode-tinyurl](https://github.com/Sadanki/leetcode_2025/tree/master/0535-encode-and-decode-tinyurl) |
 | [0567-permutation-in-string](https://github.com/Sadanki/leetcode_2025/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sadanki/leetcode_2025/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Sadanki/leetcode_2025/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -284,6 +285,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0399-evaluate-division](https://github.com/Sadanki/leetcode_2025/tree/master/0399-evaluate-division) |
 | [0412-fizz-buzz](https://github.com/Sadanki/leetcode_2025/tree/master/0412-fizz-buzz) |
 | [0500-keyboard-row](https://github.com/Sadanki/leetcode_2025/tree/master/0500-keyboard-row) |
+| [0535-encode-and-decode-tinyurl](https://github.com/Sadanki/leetcode_2025/tree/master/0535-encode-and-decode-tinyurl) |
 | [0541-reverse-string-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/Sadanki/leetcode_2025/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sadanki/leetcode_2025/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -401,6 +403,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | ------- |
 | [0155-min-stack](https://github.com/Sadanki/leetcode_2025/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Sadanki/leetcode_2025/tree/master/0173-binary-search-tree-iterator) |
+| [0535-encode-and-decode-tinyurl](https://github.com/Sadanki/leetcode_2025/tree/master/0535-encode-and-decode-tinyurl) |
 | [0729-my-calendar-i](https://github.com/Sadanki/leetcode_2025/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sadanki/leetcode_2025/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -1136,6 +1139,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Sadanki/leetcode_2025/tree/master/0187-repeated-dna-sequences) |
+| [0535-encode-and-decode-tinyurl](https://github.com/Sadanki/leetcode_2025/tree/master/0535-encode-and-decode-tinyurl) |
 | [0816-design-hashset](https://github.com/Sadanki/leetcode_2025/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Sadanki/leetcode_2025/tree/master/0817-design-hashmap) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Sadanki/leetcode_2025/tree/master/3309-count-prefix-and-suffix-pairs-i) |
