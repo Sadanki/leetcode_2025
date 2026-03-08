@@ -135,6 +135,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0808-number-of-matching-subsequences](https://github.com/Sadanki/leetcode_2025/tree/master/0808-number-of-matching-subsequences) |
 | [0816-design-hashset](https://github.com/Sadanki/leetcode_2025/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Sadanki/leetcode_2025/tree/master/0817-design-hashmap) |
+| [0822-unique-morse-code-words](https://github.com/Sadanki/leetcode_2025/tree/master/0822-unique-morse-code-words) |
 | [0852-friends-of-appropriate-ages](https://github.com/Sadanki/leetcode_2025/tree/master/0852-friends-of-appropriate-ages) |
 | [0864-image-overlap](https://github.com/Sadanki/leetcode_2025/tree/master/0864-image-overlap) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Sadanki/leetcode_2025/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -237,6 +238,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0808-number-of-matching-subsequences](https://github.com/Sadanki/leetcode_2025/tree/master/0808-number-of-matching-subsequences) |
 | [0816-design-hashset](https://github.com/Sadanki/leetcode_2025/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Sadanki/leetcode_2025/tree/master/0817-design-hashmap) |
+| [0822-unique-morse-code-words](https://github.com/Sadanki/leetcode_2025/tree/master/0822-unique-morse-code-words) |
 | [0924-fair-candy-swap](https://github.com/Sadanki/leetcode_2025/tree/master/0924-fair-candy-swap) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Sadanki/leetcode_2025/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1470-tweet-counts-per-frequency](https://github.com/Sadanki/leetcode_2025/tree/master/1470-tweet-counts-per-frequency) |
@@ -298,6 +300,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0778-reorganize-string](https://github.com/Sadanki/leetcode_2025/tree/master/0778-reorganize-string) |
 | [0782-jewels-and-stones](https://github.com/Sadanki/leetcode_2025/tree/master/0782-jewels-and-stones) |
 | [0808-number-of-matching-subsequences](https://github.com/Sadanki/leetcode_2025/tree/master/0808-number-of-matching-subsequences) |
+| [0822-unique-morse-code-words](https://github.com/Sadanki/leetcode_2025/tree/master/0822-unique-morse-code-words) |
 | [0981-delete-columns-to-make-sorted](https://github.com/Sadanki/leetcode_2025/tree/master/0981-delete-columns-to-make-sorted) |
 | [1260-day-of-the-year](https://github.com/Sadanki/leetcode_2025/tree/master/1260-day-of-the-year) |
 | [1274-number-of-days-between-two-dates](https://github.com/Sadanki/leetcode_2025/tree/master/1274-number-of-days-between-two-dates) |
