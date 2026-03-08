@@ -137,6 +137,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0817-design-hashmap](https://github.com/Sadanki/leetcode_2025/tree/master/0817-design-hashmap) |
 | [0822-unique-morse-code-words](https://github.com/Sadanki/leetcode_2025/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/Sadanki/leetcode_2025/tree/master/0837-most-common-word) |
+| [0841-shortest-distance-to-a-character](https://github.com/Sadanki/leetcode_2025/tree/master/0841-shortest-distance-to-a-character) |
 | [0852-friends-of-appropriate-ages](https://github.com/Sadanki/leetcode_2025/tree/master/0852-friends-of-appropriate-ages) |
 | [0864-image-overlap](https://github.com/Sadanki/leetcode_2025/tree/master/0864-image-overlap) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Sadanki/leetcode_2025/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -304,6 +305,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0808-number-of-matching-subsequences](https://github.com/Sadanki/leetcode_2025/tree/master/0808-number-of-matching-subsequences) |
 | [0822-unique-morse-code-words](https://github.com/Sadanki/leetcode_2025/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/Sadanki/leetcode_2025/tree/master/0837-most-common-word) |
+| [0841-shortest-distance-to-a-character](https://github.com/Sadanki/leetcode_2025/tree/master/0841-shortest-distance-to-a-character) |
 | [0981-delete-columns-to-make-sorted](https://github.com/Sadanki/leetcode_2025/tree/master/0981-delete-columns-to-make-sorted) |
 | [1260-day-of-the-year](https://github.com/Sadanki/leetcode_2025/tree/master/1260-day-of-the-year) |
 | [1274-number-of-days-between-two-dates](https://github.com/Sadanki/leetcode_2025/tree/master/1274-number-of-days-between-two-dates) |
@@ -906,6 +908,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0680-valid-palindrome-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/Sadanki/leetcode_2025/tree/master/0696-count-binary-substrings) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Sadanki/leetcode_2025/tree/master/0802-k-th-smallest-prime-fraction) |
+| [0841-shortest-distance-to-a-character](https://github.com/Sadanki/leetcode_2025/tree/master/0841-shortest-distance-to-a-character) |
 | [0852-friends-of-appropriate-ages](https://github.com/Sadanki/leetcode_2025/tree/master/0852-friends-of-appropriate-ages) |
 | [1454-remove-palindromic-subsequences](https://github.com/Sadanki/leetcode_2025/tree/master/1454-remove-palindromic-subsequences) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Sadanki/leetcode_2025/tree/master/1468-check-if-n-and-its-double-exist) |
