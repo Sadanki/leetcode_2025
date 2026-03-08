@@ -50,6 +50,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0040-combination-sum-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Sadanki/leetcode_2025/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0045-jump-game-ii) |
+| [0047-permutations-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Sadanki/leetcode_2025/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Sadanki/leetcode_2025/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0063-unique-paths-ii) |
@@ -349,6 +350,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | ------- |
 | [0016-3sum-closest](https://github.com/Sadanki/leetcode_2025/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Sadanki/leetcode_2025/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Sadanki/leetcode_2025/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Sadanki/leetcode_2025/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/Sadanki/leetcode_2025/tree/master/0179-largest-number) |
@@ -950,6 +952,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0037-sudoku-solver](https://github.com/Sadanki/leetcode_2025/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Sadanki/leetcode_2025/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0040-combination-sum-ii) |
+| [0047-permutations-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0047-permutations-ii) |
 | [0113-path-sum-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/Sadanki/leetcode_2025/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Sadanki/leetcode_2025/tree/master/0140-word-break-ii) |
