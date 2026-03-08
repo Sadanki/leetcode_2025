@@ -146,6 +146,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0907-koko-eating-bananas](https://github.com/Sadanki/leetcode_2025/tree/master/0907-koko-eating-bananas) |
 | [0912-random-pick-with-weight](https://github.com/Sadanki/leetcode_2025/tree/master/0912-random-pick-with-weight) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/Sadanki/leetcode_2025/tree/master/0914-random-point-in-non-overlapping-rectangles) |
+| [0919-projection-area-of-3d-shapes](https://github.com/Sadanki/leetcode_2025/tree/master/0919-projection-area-of-3d-shapes) |
 | [0924-fair-candy-swap](https://github.com/Sadanki/leetcode_2025/tree/master/0924-fair-candy-swap) |
 | [0981-delete-columns-to-make-sorted](https://github.com/Sadanki/leetcode_2025/tree/master/0981-delete-columns-to-make-sorted) |
 | [1014-k-closest-points-to-origin](https://github.com/Sadanki/leetcode_2025/tree/master/1014-k-closest-points-to-origin) |
@@ -706,6 +707,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0777-toeplitz-matrix](https://github.com/Sadanki/leetcode_2025/tree/master/0777-toeplitz-matrix) |
 | [0864-image-overlap](https://github.com/Sadanki/leetcode_2025/tree/master/0864-image-overlap) |
 | [0898-transpose-matrix](https://github.com/Sadanki/leetcode_2025/tree/master/0898-transpose-matrix) |
+| [0919-projection-area-of-3d-shapes](https://github.com/Sadanki/leetcode_2025/tree/master/0919-projection-area-of-3d-shapes) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sadanki/leetcode_2025/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Sadanki/leetcode_2025/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Binary Search
@@ -816,6 +818,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0805-escape-the-ghosts](https://github.com/Sadanki/leetcode_2025/tree/master/0805-escape-the-ghosts) |
 | [0912-random-pick-with-weight](https://github.com/Sadanki/leetcode_2025/tree/master/0912-random-pick-with-weight) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/Sadanki/leetcode_2025/tree/master/0914-random-point-in-non-overlapping-rectangles) |
+| [0919-projection-area-of-3d-shapes](https://github.com/Sadanki/leetcode_2025/tree/master/0919-projection-area-of-3d-shapes) |
 | [1013-fibonacci-number](https://github.com/Sadanki/leetcode_2025/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/Sadanki/leetcode_2025/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/Sadanki/leetcode_2025/tree/master/1018-largest-perimeter-triangle) |
@@ -1060,6 +1063,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Geometry
 |  |
 | ------- |
+| [0919-projection-area-of-3d-shapes](https://github.com/Sadanki/leetcode_2025/tree/master/0919-projection-area-of-3d-shapes) |
 | [1014-k-closest-points-to-origin](https://github.com/Sadanki/leetcode_2025/tree/master/1014-k-closest-points-to-origin) |
 | [1115-valid-boomerang](https://github.com/Sadanki/leetcode_2025/tree/master/1115-valid-boomerang) |
 | [1733-maximum-number-of-visible-points](https://github.com/Sadanki/leetcode_2025/tree/master/1733-maximum-number-of-visible-points) |
